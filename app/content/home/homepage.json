@@ -1,0 +1,38 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "projects":[{
+      "title": "HackerEarth",
+      "desc": "Redesigning the flow for managing and modifying a test question listing for a recruiter.",
+      "date": "2019 May - 2020 Jan",
+      "image": "/images/projects/qlStudyPreview.jpg",
+      "link":"qlCaseStudy",
+      "id":"qlCaseStudy",
+      "bgColor":"#091E5C",
+      "color":"#FFFFFF"
+  },{
+      "title": "Bokio",
+      "desc": "Design exercise of creating a virtual employee assistant ",
+      "date": "2017",
+      "image": "/images/projects/aldenCover.jpg",
+      "link":"aldenCaseStudy",
+      "id":"aldenCaseStudy",
+      "bgColor":"#FBF074",
+      "color":"#2C3454"
+  }],
+  "gallery": [{
+    "title": "React Context",
+    "copy": "For global styles.",
+    "image": "../images/gallery/react-context.jpg"
+  },
+  {
+    "title": "Page Transitions",
+    "copy": "Component-based for easy usage.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+  {
+    "title": "Intersection Observer",
+    "copy": "Including a polyfill for Safari.",
+    "image": "../images/gallery/intersection-observer.jpg"
+  }]
+}

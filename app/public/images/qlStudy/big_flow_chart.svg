@@ -1,0 +1,354 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="1537" viewBox="0 0 1060 1537">
+  <g id="Group_17332" data-name="Group 17332" transform="translate(-190 -7537)">
+    <rect id="Rectangle_10975" data-name="Rectangle 10975" width="1060" height="1537" rx="10" transform="translate(190 7537)" fill="#fff"/>
+    <g id="Group_17331" data-name="Group 17331">
+      <path id="Path_90" data-name="Path 90" d="M2923,508.584h13v464h-13" transform="translate(1673.584 6078) rotate(90)" fill="none" stroke="#ffb96e" stroke-width="1"/>
+      <text id="Settings_Based_on_the_LOE_identified_" data-name="Settings
+Based on the LOE identified " transform="translate(872 7786)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Settings</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Based on the LOE </tspan><tspan x="0" y="47">identified </tspan></tspan></text>
+      <text id="Personal_Information_The_details_of_the_logged_in_user_such_as_name_and_email." data-name="Personal Information
+The details of the logged in user such as name and email." transform="translate(851 8669)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Personal </tspan><tspan x="0" y="30">Information</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">The details of the </tspan><tspan x="0" y="64">logged in user such </tspan><tspan x="0" y="81">as name and email.</tspan></tspan></text>
+      <text id="Invite_Candidates_Area_to_enter_candidate_details_and_send_email_invite_to_candidates._Also_contains_auto_reminder_and_expiry_controls._" data-name="Invite Candidates
+Area to enter candidate details and send email invite to candidates. Also contains auto reminder and expiry controls. " transform="translate(401 8498)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Invite Candidates</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Area to enter </tspan><tspan x="0" y="47">candidate details </tspan><tspan x="0" y="64">and send email </tspan><tspan x="0" y="81">invite to candidates. </tspan><tspan x="0" y="98">Also contains auto </tspan><tspan x="0" y="115">reminder and expiry </tspan><tspan x="0" y="132">controls. </tspan></tspan></text>
+      <text id="Test_Preview_Putting_the_user_creator_in_the_candidates_shoes._See_how_the_candidate_experience_for_the_test_is." data-name="Test Preview
+Putting the user/creator in the candidates shoes. See how the candidate experience for the test is." transform="translate(251 8498)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Test Preview</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Putting the user/</tspan><tspan x="0" y="47">creator in the </tspan><tspan x="0" y="64">candidates shoes. </tspan><tspan x="0" y="81">See how the </tspan><tspan x="0" y="98">candidate </tspan><tspan x="0" y="115">experience for the </tspan><tspan x="0" y="132">test is.</tspan></tspan></text>
+      <text id="Edit_Test_User_can_go_into_a_view_similar_to_the_create_test_flow_and_edit_the_test._View_and_change_all_setting_and_questions_of_the_test" data-name="Edit Test 
+User can go into a view similar to the “create test” flow and edit the test. View and change all setting and questions of the test" transform="translate(551 8498)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Edit Test </tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">User can go into a </tspan><tspan x="0" y="47">view similar to the </tspan><tspan x="0" y="64">“create test” flow </tspan><tspan x="0" y="81">and edit the test. </tspan><tspan x="0" y="98">View and change all </tspan><tspan x="0" y="115">setting and </tspan><tspan x="0" y="132">questions of the test</tspan></tspan></text>
+      <text id="Ongoing_tests_Test_name_invite_setting_candidates_invited_test_taken_start_date_Duration_Test_link_Preview_Invite" data-name="Ongoing tests
+Test name
+invite setting #candidates invited
+#test taken 
+start date
+Duration
+Test link
+Preview
+Invite" transform="translate(401 8191)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Ongoing tests</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Test name</tspan><tspan x="0" y="47">invite setting </tspan><tspan x="0" y="64">#candidates invited</tspan><tspan x="0" y="81">#test taken </tspan><tspan x="0" y="98">start date</tspan><tspan x="0" y="115">Duration</tspan><tspan x="0" y="132">Test link</tspan><tspan x="0" y="149">Preview</tspan><tspan x="0" y="166">Invite</tspan></tspan></text>
+      <text id="Completed_tests_Test_name_Start_date_time_End_date_time_Duration_Test_link" data-name="Completed tests
+Test name
+Start date, time
+End date, time
+Duration
+Test link" transform="translate(551 8191)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Completed tests</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Test name</tspan><tspan x="0" y="47">Start date, time</tspan><tspan x="0" y="64">End date, time</tspan><tspan x="0" y="81">Duration</tspan><tspan x="0" y="98">Test link</tspan></tspan></text>
+      <text id="Test_Drafts_Test_name_invite_setting_Start_date_Duration_Test_link" data-name="Test Drafts
+Test name
+invite setting 
+Start date
+Duration
+Test link" transform="translate(251 8204)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="0">Test Drafts</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="17">Test name</tspan><tspan x="0" y="34">invite setting </tspan><tspan x="0" y="51">Start date</tspan><tspan x="0" y="68">Duration</tspan><tspan x="0" y="85">Test link</tspan></tspan></text>
+      <text id="Ongoing_Interviews_Candidates_Interviewers_Start_date_Test_link_Preview_Invite" data-name="Ongoing Interviews
+Candidates
+Interviewers
+Start date
+Test link
+Preview
+Invite" transform="translate(401 7931)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Ongoing Interviews</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Candidates</tspan><tspan x="0" y="47">Interviewers</tspan><tspan x="0" y="64">Start date</tspan><tspan x="0" y="81">Test link</tspan><tspan x="0" y="98">Preview</tspan><tspan x="0" y="115">Invite</tspan></tspan></text>
+      <text id="Company_Details_The_details_of_the_employer_of_the_logged_in_user" data-name="Company Details
+The details of the employer of the logged in user" transform="translate(872 7931)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Company Details</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">The details of the </tspan><tspan x="0" y="47">employer of the </tspan><tspan x="0" y="64">logged in user</tspan></tspan></text>
+      <text id="Demo_Request_Option_to_enter_details_and_request_demo" data-name="Demo Request
+Option to enter details and request demo" transform="translate(251 8874.313)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Demo Request</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Option to enter </tspan><tspan x="0" y="47">details and request </tspan><tspan x="0" y="64">demo</tspan></tspan></text>
+      <text id="Help_Option_to_enter_details_and_request_for_help" data-name="Help
+Option to enter details and request for help" transform="translate(401 8874.313)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Help</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Option to enter </tspan><tspan x="0" y="47">details and request </tspan><tspan x="0" y="64">for help</tspan></tspan></text>
+      <text id="Password_Modify_the_user_password" data-name="Password
+Modify the user password" transform="translate(551 8889)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Password</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Modify the user </tspan><tspan x="0" y="47">password</tspan></tspan></text>
+      <text id="Team_Management_Place_to_view_and_manage_various_users_and_teams_and_roles._" data-name="Team Management
+Place to view and manage various users and teams and roles. " transform="translate(917 8305)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Team Management</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Place to view and </tspan><tspan x="0" y="47">manage various </tspan><tspan x="0" y="64">users and teams and </tspan><tspan x="0" y="81">roles. </tspan></tspan></text>
+      <text id="Add_User_Create_new_user_enter_user_details_and_assign_role_and_team" data-name="Add User
+Create new user, enter user details and assign role and team" transform="translate(917 8498)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Add User</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Create new user, </tspan><tspan x="0" y="47">enter user details </tspan><tspan x="0" y="64">and assign role and </tspan><tspan x="0" y="81">team</tspan></tspan></text>
+      <text id="Add_Team_Place_to_view_and_manage_various_users_and_teams_and_roles._" data-name="Add Team
+Place to view and manage various users and teams and roles. " transform="translate(736 8498)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Add Team</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Place to view and </tspan><tspan x="0" y="47">manage various </tspan><tspan x="0" y="64">users and teams and </tspan><tspan x="0" y="81">roles. </tspan></tspan></text>
+      <text id="API_Details_APIs_for_the_client_and_its_encryption_keys" data-name="API Details
+APIs for the client and its encryption keys" transform="translate(701 8889)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">API Details</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">APIs for the client </tspan><tspan x="0" y="47">and its encryption </tspan><tspan x="0" y="64">keys</tspan></tspan></text>
+      <text id="Payment_Adding_a_payment_method_managing_payment_methods" data-name="Payment
+Adding a payment method/managing payment methods" transform="translate(917 8191)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Payment</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Adding a payment </tspan><tspan x="0" y="47">method/managing </tspan><tspan x="0" y="64">payment methods</tspan></tspan></text>
+      <text id="Integrations_Various_integrations_which_are_enabled._Also_lets_the_user_upgrade_the_package_" data-name="Integrations
+Various integrations which are enabled. Also lets the user upgrade the package " transform="translate(851 8889)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Integrations</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Various integrations </tspan><tspan x="0" y="47">which are enabled. </tspan><tspan x="0" y="64">Also lets the user </tspan><tspan x="0" y="81">upgrade the </tspan><tspan x="0" y="98">package </tspan></tspan></text>
+      <text id="Language_Settings_Change_languages_and_modify_language_options_for_others" data-name="Language Settings
+Change languages and modify language options for others" transform="translate(917 8060)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Language Settings</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Change languages </tspan><tspan x="0" y="47">and modify </tspan><tspan x="0" y="64">language options for </tspan><tspan x="0" y="81">others</tspan></tspan></text>
+      <text id="Home_Dashboard_The_primary_landing_page_or_the_homepage_of_the_product_is_the_dashboard_" data-name="Home/Dashboard
+The primary landing page or the homepage of the product is the dashboard " transform="translate(251 7607)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Home/Dashboard</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">The primary landing </tspan><tspan x="0" y="47">page or the </tspan><tspan x="0" y="64">homepage of the </tspan><tspan x="0" y="81">product is the </tspan><tspan x="0" y="98">dashboard </tspan></tspan></text>
+      <text id="Tests_Shows_all_the_tests_which_are_created_so_far" data-name="Tests
+Shows all the tests which are created so far" transform="translate(251 7786)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Tests</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Shows all the tests </tspan><tspan x="0" y="47">which are created so </tspan><tspan x="0" y="64">far</tspan></tspan></text>
+      <text id="Facecode_Shows_all_interviews_scheduled_and_completed" data-name="Facecode
+Shows all interviews scheduled and completed" transform="translate(401 7786)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Facecode</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Shows all interviews </tspan><tspan x="0" y="47">scheduled and </tspan><tspan x="0" y="64">completed</tspan></tspan></text>
+      <text id="Search_Candidates_Shows_all_interviews_scheduled_and_completed" data-name="Search Candidates
+Shows all interviews scheduled and completed" transform="translate(401 7607)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Search Candidates</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Shows all interviews </tspan><tspan x="0" y="47">scheduled and </tspan><tspan x="0" y="64">completed</tspan></tspan></text>
+      <g id="Group_17251" data-name="Group 17251" transform="translate(86 -147)">
+        <g id="Path_22845" data-name="Path 22845" transform="translate(704 7788)" fill="#fff">
+          <path d="M 23 127.2928848266602 L 17.35355949401855 121.6464385986328 L 17.20711708068848 121.5 L 17 121.5 L 0.5 121.5 L 0.5 0.5 L 230.5 0.5 L 230.5 121.5 L 29 121.5 L 28.79288291931152 121.5 L 28.64644050598145 121.6464385986328 L 23 127.2928848266602 Z" stroke="none"/>
+          <path d="M 1 1 L 1 121 L 17 121 L 17.41419982910156 121 L 17.70712280273438 121.2928848266602 L 23 126.5857620239258 L 28.29287719726562 121.2928848266602 L 28.58580017089844 121 L 29 121 L 230 121 L 230 1 L 1 1 M 0 0 L 231 0 L 231 122 L 29 122 L 23 128 L 17 122 L 0 122 L 0 0 Z" stroke="none" fill="#ffd065"/>
+        </g>
+        <text id="Billing_info_on_dashboard_Is_the_information_about_billing_and_subscription_important_enough_for_the_user_to_be_shown_on_the_dashboard_Also_it_has_multiple_entry_point" data-name="Billing info on dashboard?
+Is the information about billing and subscription important enough for the user to be shown on the dashboard? Also it has multiple entry point" transform="translate(714 7798)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Billing info on dashboard?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Is the information about billing </tspan><tspan x="0" y="47">and subscription important </tspan><tspan x="0" y="64">enough for the user to be shown </tspan><tspan x="0" y="81">on the dashboard? Also it has </tspan><tspan x="0" y="98">multiple entry point</tspan></tspan></text>
+      </g>
+      <text id="Why_edit_completed_How_does_one_edit_a_test_which_is_already_completed_Why_is_it_required_" data-name="Why edit completed?
+How does one edit a test which is already completed? Why is it required?" transform="translate(551 8669)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Why edit </tspan><tspan x="0" y="30">completed?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">How does one edit a </tspan><tspan x="0" y="64">test which is already </tspan><tspan x="0" y="81">completed? Why is it </tspan><tspan x="0" y="98">required?</tspan></tspan></text>
+      <text id="Why_not_invite_for_completed_Why_can_t_a_user_invite_a_candidate_for_a_test_that_was_completed_" data-name="Why not invite for completed?
+Why can’t a user invite a candidate for a test that was completed?" transform="translate(401 8669)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Why not invite for </tspan><tspan x="0" y="30">completed?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">Why can’t a user </tspan><tspan x="0" y="64">invite a candidate </tspan><tspan x="0" y="81">for a test that was </tspan><tspan x="0" y="98">completed?</tspan></tspan></text>
+      <text id="Library_List_of_all_questions_created_by_the_user_and_other_users_from_the_same_company" data-name="Library
+List of all questions created by the user and other users from the same company" transform="translate(551 7786)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Library</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">List of all questions </tspan><tspan x="0" y="47">created by the user </tspan><tspan x="0" y="64">and other users from </tspan><tspan x="0" y="81">the same company</tspan></tspan></text>
+      <g id="Group_221" data-name="Group 221" transform="translate(260.917 7748.049) rotate(90)">
+        <g id="Group_17211" data-name="Group 17211">
+          <path id="Path_73" data-name="Path 73" d="M0,0H52" transform="translate(-29.047 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17218" data-name="Group 17218" transform="translate(260.917 8153.049) rotate(90)">
+        <g id="Group_17211-2" data-name="Group 17211">
+          <path id="Path_73-2" data-name="Path 73" d="M0,0H311" transform="translate(-289.049 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17219" data-name="Group 17219" transform="translate(410.917 7893.047) rotate(90)">
+        <g id="Group_17211-3" data-name="Group 17211">
+          <path id="Path_73-3" data-name="Path 73" d="M0,0H52" transform="translate(-29.047 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-3" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17240" data-name="Group 17240" transform="translate(711.917 8153.049) rotate(90)">
+        <g id="Group_17211-4" data-name="Group 17211">
+          <path id="Path_73-4" data-name="Path 73" d="M0,0H150" transform="translate(-127.049 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-4" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17239" data-name="Group 17239" transform="translate(710.917 7893.047) rotate(90)">
+        <g id="Group_17211-5" data-name="Group 17211">
+          <path id="Path_73-5" data-name="Path 73" d="M13.427,0h35" transform="translate(-25.474 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-5" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17234" data-name="Group 17234" transform="translate(881.917 7893.047) rotate(90)">
+        <g id="Group_17211-6" data-name="Group 17211">
+          <path id="Path_73-6" data-name="Path 73" d="M5,0H73" transform="translate(-51.047 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-6" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17233" data-name="Group 17233" transform="translate(871.951 8203.918) rotate(180)">
+        <g id="Group_17211-7" data-name="Group 17211">
+          <path id="Path_73-7" data-name="Path 73" d="M0,0H27.867" transform="translate(-4.916 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-7" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17223" data-name="Group 17223" transform="translate(410.917 8460.047) rotate(90)">
+        <g id="Group_17211-8" data-name="Group 17211">
+          <path id="Path_73-8" data-name="Path 73" d="M0,0H113" transform="translate(-89.046 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-8" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17247" data-name="Group 17247" transform="translate(927.917 8460.049) rotate(90)">
+        <g id="Group_17211-9" data-name="Group 17211">
+          <path id="Path_73-9" data-name="Path 73" d="M0,0H82" transform="translate(-60.048 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-9" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17213" data-name="Group 17213" transform="translate(410.917 7748.049) rotate(90)">
+        <g id="Group_17211-10" data-name="Group 17211">
+          <path id="Path_73-10" data-name="Path 73" d="M0,150V0H25" transform="translate(-2.049 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-10" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17221" data-name="Group 17221" transform="translate(410.917 8153.049) rotate(90)">
+        <g id="Group_17211-11" data-name="Group 17211">
+          <path id="Path_73-11" data-name="Path 73" d="M0,150V0H25" transform="translate(-2.049 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-11" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17229" data-name="Group 17229" transform="translate(1075 8629) rotate(90)">
+        <g id="Group_17211-12" data-name="Group 17211">
+          <path id="Path_73-12" data-name="Path 73" d="M-697,209l0-211H33.788V230H60" transform="translate(-34.998 -11)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-12" data-name="Ellipse 1" transform="translate(20 214)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17232" data-name="Group 17232" transform="translate(877 8163)">
+        <g id="Group_17211-13" data-name="Group 17211">
+          <path id="Path_73-13" data-name="Path 73" d="M0,0V157.97H25" transform="translate(0 -7.97)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-13" data-name="Ellipse 1" transform="translate(20 145)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17245" data-name="Group 17245" transform="translate(705.731 8849) rotate(90)">
+        <g id="Group_17211-14" data-name="Group 17211" transform="translate(0 -125.269)">
+          <path id="Path_73-14" data-name="Path 73" d="M0,0V275H25" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-14" data-name="Ellipse 1" transform="translate(20 270.01)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <ellipse cx="5" cy="4.995" rx="5" ry="4.995" stroke="none"/>
+            <ellipse cx="5" cy="4.995" rx="4.5" ry="4.495" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17327" data-name="Group 17327" transform="translate(855.731 8849) rotate(90)">
+        <g id="Group_17211-15" data-name="Group 17211" transform="translate(0 -125.269)">
+          <path id="Path_73-15" data-name="Path 73" d="M0,1.031v149H25" transform="translate(0 124.969)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-15" data-name="Ellipse 1" transform="translate(20 270.01)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <ellipse cx="5" cy="4.995" rx="5" ry="4.995" stroke="none"/>
+            <ellipse cx="5" cy="4.995" rx="4.5" ry="4.495" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17328" data-name="Group 17328" transform="translate(1005.731 8849) rotate(90)">
+        <g id="Group_17211-16" data-name="Group 17211" transform="translate(0 -125.269)">
+          <path id="Path_73-16" data-name="Path 73" d="M-50,275H60" transform="translate(-35 0.995)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-16" data-name="Ellipse 1" transform="translate(20 271)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17236" data-name="Group 17236" transform="translate(877 8049)">
+        <g id="Group_17211-17" data-name="Group 17211">
+          <path id="Path_73-17" data-name="Path 73" d="M0,0V190H25" transform="translate(0 -40)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-17" data-name="Ellipse 1" transform="translate(20 145)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17237" data-name="Group 17237" transform="translate(877 7919)">
+        <g id="Group_17211-18" data-name="Group 17211">
+          <path id="Path_73-18" data-name="Path 73" d="M0,264.414v60H25" transform="translate(0 -174.414)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-18" data-name="Ellipse 1" transform="translate(20 145)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17216" data-name="Group 17216" transform="translate(560.917 7748.049) rotate(90)">
+        <g id="Group_17211-19" data-name="Group 17211">
+          <path id="Path_73-19" data-name="Path 73" d="M0,150V0H25" transform="translate(-2.049 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-19" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17217" data-name="Group 17217" transform="translate(710.917 7748.049) rotate(90)">
+        <g id="Group_17211-20" data-name="Group 17211">
+          <path id="Path_73-20" data-name="Path 73" d="M0,150V0H25" transform="translate(-2.049 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-20" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <text id="Subscription_Details_The_details_of_subscription_usage_and_billing" data-name="Subscription Details
+The details of subscription, usage and billing" transform="translate(701 7786)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Subscription </tspan><tspan x="0" y="30">Details</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">The details of </tspan><tspan x="0" y="64">subscription, usage </tspan><tspan x="0" y="81">and billing</tspan></tspan></text>
+      <text id="Change_plans_Place_to_view_benefits_of_different_plans_and_change_subscription" data-name="Change plans
+Place to view benefits of different plans and change subscription" transform="translate(702 7931)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Change plans</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Place to view </tspan><tspan x="0" y="47">benefits of different </tspan><tspan x="0" y="64">plans and change </tspan><tspan x="0" y="81">subscription</tspan></tspan></text>
+      <text id="Add_new_payment_method_Based_on_the_LOE_identified_" data-name="Add new payment method
+Based on the LOE identified " transform="translate(702 8191)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Add new payment </tspan><tspan x="0" y="30">method</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">Based on the LOE </tspan><tspan x="0" y="64">identified </tspan></tspan></text>
+      <g id="Group_17329" data-name="Group 17329" transform="translate(-10 -20)">
+        <g id="Rectangle_10976" data-name="Rectangle 10976" transform="translate(1018 8679)" fill="#fff" stroke="#ffd065" stroke-width="1">
+          <rect width="157" height="173" stroke="none"/>
+          <rect x="0.5" y="0.5" width="156" height="172" fill="none"/>
+        </g>
+        <text id="System_Log_and_Notification_Don_t_we_need_a_log_to_record_and_inform_the_user_about_the_updates_of_their_candidates_and_tests_Or_billing_and_subscription_info_" data-name="System Log and Notification?
+Don’t we need a log to record and inform the user about the updates of their candidates and tests? Or billing and subscription info?" transform="translate(1028 8689)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">System Log and </tspan><tspan x="0" y="30">Notification?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">Don’t we need a log </tspan><tspan x="0" y="64">to record and inform </tspan><tspan x="0" y="81">the user about the </tspan><tspan x="0" y="98">updates of their </tspan><tspan x="0" y="115">candidates and tests? </tspan><tspan x="0" y="132">Or billing and </tspan><tspan x="0" y="149">subscription info?</tspan></tspan></text>
+      </g>
+      <g id="Group_17330" data-name="Group 17330" transform="translate(-10 -20)">
+        <g id="Path_22847" data-name="Path 22847" transform="translate(1018 8848)" fill="#fff">
+          <path d="M 156.5 155.5 L 0.5 155.5 L 0.5 93 L 0.5 92.79289245605469 L 0.3535625040531158 92.64643859863281 L -6.315669536590576 85.97720336914062 L 0.3762916624546051 78.32924652099609 L 0.5 78.18787384033203 L 0.5 78 L 0.5 50.5 L 156.5 50.5 L 156.5 155.5 Z" stroke="none"/>
+          <path d="M 1 51 L 1 78 L 1 78.375732421875 L 0.7525787353515625 78.65850067138672 L -5.631362915039062 85.95442962646484 L 0.7071075439453125 92.29289245605469 L 1 92.58579254150391 L 1 93 L 1 155 L 156 155 L 156 51 L 1 51 M 0 50 L 157 50 L 157 156 L 0 156 L 0 93 L -7 86 L 0 78 L 0 50 Z" stroke="none" fill="#ffd065"/>
+        </g>
+        <text id="Are_these_personal_information_Integrations_and_API_details_are_part_of_personal_information_" data-name="Are these personal information?
+Integrations and API details are part of personal information?" transform="translate(1028 8908)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Are these personal </tspan><tspan x="0" y="30">information?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">Integrations and API </tspan><tspan x="0" y="64">details are part of </tspan><tspan x="0" y="81">personal information?</tspan></tspan></text>
+      </g>
+      <path id="Path_89" data-name="Path 89" d="M2923,508.584h10v196h-10" transform="translate(-1866 7554.417)" fill="none" stroke="#ffb96e" stroke-width="1"/>
+      <g id="Group_17226" data-name="Group 17226" transform="translate(560.917 8460.049) rotate(90)">
+        <g id="Group_17211-21" data-name="Group 17211">
+          <path id="Path_73-21" data-name="Path 73" d="M0,150V0H25" transform="translate(-2.049 4.917)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-21" data-name="Ellipse 1" transform="translate(17.951 -0.083)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17230" data-name="Group 17230" transform="translate(406 8411) rotate(-90)">
+        <g id="Group_17211-22" data-name="Group 17211" transform="translate(0)">
+          <path id="Path_73-22" data-name="Path 73" d="M0,0V150H108" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_17227" data-name="Group 17227" transform="translate(406 8458) rotate(90)">
+        <g id="Group_17211-23" data-name="Group 17211">
+          <path id="Path_73-23" data-name="Path 73" d="M0,0V150H25" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-22" data-name="Ellipse 1" transform="translate(20 145)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17246" data-name="Group 17246" transform="translate(891 8458) rotate(90)">
+        <g id="Group_17211-24" data-name="Group 17211">
+          <path id="Path_73-24" data-name="Path 73" d="M0-32V150H25" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+          <g id="Ellipse_1-23" data-name="Ellipse 1" transform="translate(20 145)" fill="#fff" stroke="#b7b6bd" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_17231" data-name="Group 17231" transform="translate(251 8410.999) rotate(-90)">
+        <g id="Group_17211-25" data-name="Group 17211">
+          <path id="Path_73-25" data-name="Path 73" d="M0,150V0H108" transform="translate(0 5)" fill="none" stroke="#b7b6bd" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_17252" data-name="Group 17252" transform="translate(112 -191)">
+        <g id="Path_22844" data-name="Path 22844" transform="translate(439 7788)" fill="#fff">
+          <path d="M 218.5 121.5 L 0.5 121.5 L 0.5 49 L 0.5 48.81213760375977 L 0.3762777745723724 48.67074966430664 L -6.335628509521484 41 L 0.3762777745723724 33.32925033569336 L 0.5 33.18786239624023 L 0.5 33 L 0.5 0.5 L 218.5 0.5 L 218.5 121.5 Z" stroke="none"/>
+          <path d="M 1 1 L 1 33 L 1 33.375732421875 L 0.752593994140625 33.65850067138672 L -5.671218872070312 41 L 0.752593994140625 48.34149932861328 L 1 48.624267578125 L 1 49 L 1 121 L 218 121 L 218 1 L 1 1 M 0 0 L 219 0 L 219 122 L 0 122 L 0 49 L -7 41 L 0 33 L 0 0 Z" stroke="none" fill="#ffd065"/>
+        </g>
+        <text id="Where_are_all_the_Candidates_When_the_recruiters_life_is_pretty_much_revolving_around_the_candidates_why_not_have_a_section_dedicated_for_candidates" data-name="Where are all the Candidates?
+When the recruiters life is pretty much revolving around the candidates, why not have a section dedicated for candidates" transform="translate(449 7798)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Where are all the Candidates?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">When the recruiters life is pretty </tspan><tspan x="0" y="47">much revolving around the </tspan><tspan x="0" y="64">candidates, why not have a </tspan><tspan x="0" y="81">section dedicated for </tspan><tspan x="0" y="98">candidates</tspan></tspan></text>
+      </g>
+      <text id="History_Section_which_shows_past_tests_sent_out_through_HackerEarth._" data-name="History
+Section which shows past tests sent out through HackerEarth. " transform="translate(551 7931)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">History</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Section which shows </tspan><tspan x="0" y="47">past tests sent out </tspan><tspan x="0" y="64">through </tspan><tspan x="0" y="81">HackerEarth. </tspan></tspan></text>
+      <g id="Group_17250" data-name="Group 17250" transform="translate(102 -190)">
+        <g id="Path_22846" data-name="Path 22846" transform="translate(439 8223)" fill="#fff">
+          <path d="M 149.5 138.5 L 0.5 138.5 L 0.5 0.5 L 27 0.5 L 27.17539978027344 0.5 L 27.31233978271484 0.3904399871826172 L 37 -7.359687805175781 L 46.68766021728516 0.3904399871826172 L 46.82460021972656 0.5 L 47 0.5 L 149.5 0.5 L 149.5 138.5 Z" stroke="none"/>
+          <path d="M 37 -6.719375610351562 L 27.62470245361328 0.780853271484375 L 27.35077667236328 1 L 27 1 L 1 1 L 1 138 L 149 138 L 149 1 L 47 1 L 46.64922332763672 1 L 46.37529754638672 0.780853271484375 L 37 -6.719375610351562 M 37 -8 L 47 0 L 150 0 L 150 139 L 0 139 L 0 0 L 27 0 L 37 -8 Z" stroke="none" fill="#ffd065"/>
+        </g>
+        <text id="Interview_History_Ongoing_test_and_interviews_are_shown_but_only_past_test._Is_it_necessary_If_yes_why_is_it_not_shown_" data-name="Interview History?
+Ongoing test and interviews are shown, but only past test. Is it necessary? If yes why is it not shown?" transform="translate(449 8233)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Interview History?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="30">Ongoing test and </tspan><tspan x="0" y="47">interviews are </tspan><tspan x="0" y="64">shown, but only past </tspan><tspan x="0" y="81">test. Is it necessary? </tspan><tspan x="0" y="98">If yes why is it not </tspan><tspan x="0" y="115">shown?</tspan></tspan></text>
+      </g>
+      <g id="Path_22848" data-name="Path 22848" transform="translate(1077 8063)" fill="#fff">
+        <path d="M 111.5 172.5 L 0.5 172.5 L 0.5 36 L 0.5 35.76580429077148 L 0.3200869560241699 35.61589050292969 L -5.259308338165283 30.96639442443848 L 0.3535434901714325 25.35354423522949 L 0.5 25.20710945129395 L 0.5 25 L 0.5 0.5 L 111.5 0.5 L 111.5 172.5 Z" stroke="none"/>
+        <path d="M 1 1 L 1 25 L 1 25.41419982910156 L 0.7071151733398438 25.70710754394531 L -4.518577575683594 30.93280029296875 L 0.6401824951171875 35.23176574707031 L 1 35.53163146972656 L 1 36 L 1 172 L 111 172 L 111 1 L 1 1 M 0 0 L 112 0 L 112 173 L 0 173 L 0 36 L -6 31 L 0 25 L 0 0 Z" stroke="none" fill="#ffd065"/>
+      </g>
+      <text id="Why_not_together_Why_are_profile_information_and_passwords_section_separate_" data-name="Why not together?
+Why are profile information and passwords section separate?" transform="translate(1087 8073)" font-size="14" font-family="ProximaNova-Black, Proxima Nova" font-weight="800"><tspan x="0" y="13">Why not </tspan><tspan x="0" y="30">together?</tspan><tspan font-family="ProximaNova-RegularIt, Proxima Nova" font-weight="400" font-style="italic"><tspan x="0" y="47">Why are </tspan><tspan x="0" y="64">profile </tspan><tspan x="0" y="81">information </tspan><tspan x="0" y="98">and </tspan><tspan x="0" y="115">passwords </tspan><tspan x="0" y="132">section </tspan><tspan x="0" y="149">separate?</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
