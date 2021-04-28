@@ -282,9 +282,9 @@
                     <p class="no-margin ">1. A small set of information which could help a user identify a question and </p>
                     <p class="no-margin ">2. Full detail about how the question is configured. </p>
                     <p class="no-margin ">This also included the question’s analytics on how id was doing in the past.</p>
-                    <div class="img-col-2">
-                        <div> <img src="/images/qlStudy/Flyoutimage001.jpg"  alt="wireframe Image 1"/> </div>
-                        <div> <img src="/images/qlStudy/Flyoutimage002.jpg"  alt="wireframe Image 1"/> </div>
+                    <div class="img-col-2 flex-image">
+                        <img src="/images/qlStudy/Flyoutimage001.jpg"  alt="wireframe Image 1"/>
+                        <img src="/images/qlStudy/Flyoutimage002.jpg"  alt="wireframe Image 1"/>
                     </div>
                     <p>From a couple of customer calls, what we realised is that when a user is in a particular question’s context, they are not looking for anything else. So I designed a fly-out overlay that takes the user quickly into the details of the question (in a read-only mode) without taking them having to navigate away from the test listing’s context.</p>
                     <div class="img-col-1  screeshot-wrapper">

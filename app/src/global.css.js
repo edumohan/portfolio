@@ -38,7 +38,6 @@ export default createGlobalStyle`
   html {
     font-size: 62.5%;
   }
-
   body {
     font-family: 'proxima-nova', Georgia, sans-serif;
     line-height: 1;
@@ -159,6 +158,9 @@ export default createGlobalStyle`
   }
   i {
     font-style: italic;
+  }
+  .hidden {
+    display:none;
   }
   .screeshot-wrapper {
     position: relative;
@@ -356,6 +358,16 @@ export default createGlobalStyle`
         display:block;
       }
     }
+    .img-col-2.flex-image {
+      display: flex;
+      justify-content: space-between;
+      img {
+        width: 60%;
+      }
+      img:first-child {
+        width: 280px;
+      }
+    }
     .step-description .extra-top {
       margin-top:120px;
     }
@@ -449,7 +461,7 @@ export default createGlobalStyle`
       align-items: center;
       .profile-round {
         display: block;
-        width: 150px;
+        width: 170px;
         border-radius: 20px 20px 20px 20px;
         overflow: hidden;
       }

@@ -1,32 +1,36 @@
-import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from 'components/layout';
 
-const Project = ({ data }) => {
-  const browserWindow = typeof window === 'undefined' ? {} : window;
-  let selectedPage = {
-    content: {
-      childMarkdownRemark: {
-        html: ``,
+
+import React, {useEffect,useRef } from 'react';
+
+function Project({ data }) {
+  const htmlRef = useRef();
+  useEffect(() => {
+    const browserWindow = typeof window === 'undefined' ? {} : window;
+    let selectedPage = {
+      content: {
+        childMarkdownRemark: {
+          html: ``,
+        },
       },
-    },
-  };
-  if (browserWindow.location) {
-    const urlParams = new URLSearchParams(browserWindow.location.search);
-    const id = urlParams.get('id');
-    selectedPage = data.projectJson.projects.filter(item => item.id === id)[0];
-  }
-  const { content } = selectedPage;
+    };
+    if (browserWindow.location) {
+      const urlParams = new URLSearchParams(browserWindow.location.search);
+      const id = urlParams.get('id');
+      selectedPage = data.projectJson.projects.filter(item => item.id === id)[0];
+    }
+    const { content } = selectedPage;
+    htmlRef.current.innerHTML = content.childMarkdownRemark.html;
+  });
+
   return (
     <Layout>
-      <div
-        className="project-wrapper"
-        dangerouslySetInnerHTML={{ __html: content.childMarkdownRemark.html }}
-      ></div>
-    </Layout>
+    <div ref={htmlRef}  id="projectWrapper" className="project-wrapper"></div>
+  </Layout>
   );
-};
+}
 
 Project.propTypes = {
   data: PropTypes.object.isRequired,
