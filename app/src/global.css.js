@@ -20,7 +20,8 @@ export default createGlobalStyle`
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 22px;
     font: inherit;
     vertical-align: baseline;
   }
@@ -52,10 +53,10 @@ export default createGlobalStyle`
     font-feature-settings: "pnum";
     font-variant-numeric: proportional-nums;
   }
-  h1,h2{
+  h1,h2,h3,h5,.semi-bold-txt2{
     font-family: 'proxima-nova-bold', Georgia, sans-serif;
   }
-  h3,h4,h5,h6 {
+  h4,h6{
     font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
   }
 
@@ -82,8 +83,8 @@ export default createGlobalStyle`
     color: ${accent};
   }
   p {
-    line-height: 20px;
-    font-size: 16px;
+    line-height: 22px;
+    font-size: 18px;
   }
 
   pre {
@@ -202,8 +203,8 @@ export default createGlobalStyle`
       width: 70%;
       p {
         margin:0px 0px 9px 0px;
-        font-size: 16px;
-        line-height: 20px;
+        font-size: 18px;
+        line-height: 22px;
       }
       .contact-row {
         font-weight: 600;
@@ -299,12 +300,12 @@ export default createGlobalStyle`
       font-weight: 700;
       padding-right: 50px;
       line-height: 30px;
-      font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
+      font-family: 'proxima-nova-bold',Georgia,sans-serif;
     }
     .resp-desc {
       width: 70%;
-      font-size: 16px;
-      line-height: 20px;
+      font-size: 18px;
+      line-height: 22px;
     }
     .step-container {
       background-color: #F7F8FA;
@@ -322,24 +323,24 @@ export default createGlobalStyle`
     }
     .step-description {
       width: 70%;
-      font-size: 16px;
-      line-height: 20px;
+      font-size: 18px;
+      line-height: 22px;
       h5 {
         font-weight: 600;
-        font-size: 16px;
+        font-size: 18px;
         margin-bottom: 6px;
         margin-top: 24px;
       }
       h4 {
         font-weight: 800;
-        font-size: 18px;
+        font-size: 24px;
         margin-top: 80px;
         margin-bottom: 40px;
       }
       p {
         margin-bottom: 20px;
-        font-size: 16px;
-        line-height: 20px;
+        font-size: 18px;
+        line-height: 22px;
       }
     }
     .col-2-img, .img-col-2 {
@@ -347,7 +348,10 @@ export default createGlobalStyle`
       justify-content: space-between;
       margin-top: 40px;
       margin-bottom: 50px;
-      img {
+      div{
+        img{
+          width: 100%
+        }
         max-width: 48%;
         display:block;
       }
@@ -402,15 +406,15 @@ export default createGlobalStyle`
       }
       .semii-bold-txt1 {
         font-size:14px;
-        font-size:16px;
+        font-size:18px;
         font-weight:bold;
       }
       .bold-txt1 {
-        font-size:16px;
+        font-size:18px;
         font-weight:bold;
       }
       .regular-txt1 {
-        font-size:16px;
+        font-size:18px;
       }
       .grid-1 {
         background-color:#E0F1FF;

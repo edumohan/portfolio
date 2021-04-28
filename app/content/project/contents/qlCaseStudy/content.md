@@ -16,27 +16,27 @@
     <div class="resp-row">
         <div class="resp-title">Project <br/>overview</div>
         <div class="resp-desc">
-            <p>In India, the information technology industry has shown a steadily increasing trend from 1998. It never had a downfall and is still in its growth path even today. This also led to an increased number of developers being hired. However, the selection of a candidate for being hired into a software building company was mostly through campus hires and referrals.</p>
-            <p>This has not been in favour of the employer because they might miss out on the right candidate as well as the candidate because he/she would have missed a good opportunity just because he was not from the tier 1 colleges. This is where HackerEarth intervenes to make both ends meet.</p>
+            <p>In India, the information technology industry has shown a steadily increasing trend since 1998. It never had a downfall and is still in its growth path even today. This also led to an increased number of developers being hired. However, the selection of a candidate for being hired into a software building company was mostly through campus hires and referrals.</p>
+            <p>This has not been in favor of the employer because they might miss out on the right candidate as well as the candidate because he/she would have missed a good opportunity just because he was not from the tier 1 colleges. This is where HackerEarth intervenes to make both ends meet.</p>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">Role of <br/> HackerEarth</div>
         <div class="resp-desc">
-            <p>HackerEarth provides various ways for automated technical assessment of a candidate. There is a community front where an aspiring developer can learn and improve and there is a product that helps a recruiter technically assess a candidate. One of the main ways to do this is by creating a test and sending it to the candidate. Though HackerEarth was leading the Indian market by quite a margin and was one of the top three, the test creation was something a lot of users found to be complex. Let me take you through my journey of how I improved the recruiter’s experience by redesigned the test creation flow.</p>
+            <p>HackerEarth provides various ways for the automated technical assessment of a candidate. There is a community front where an aspiring developer can learn and improve and there is a product that helps a recruiter technically assess a candidate. One of the main ways to do this is by creating a test and sending it to the candidate. Though HackerEarth was leading the Indian market by quite a margin and was one of the top three, the test creation was something a lot of users found to be complex. Let me take you through my journey of how I improved the recruiter’s experience by redesigned the test creation flow.</p>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">What I <br/>had to do?</div>
         <div class="resp-desc">
-            <p>There are various ways to create a test. A test which is based on a job role, based on a job description, or based on a skill. It is also possible for a user to create a test entirely from scratch. All tests have a test overview area where the settings of the tests could be changed and also a list of questions. How the questions are populated in that question list depends on how the test was created. Once the user reaches this part the user can tailor-make it exactly how he/she wants it. My role was to understand the user’s pain points and redesign the question listing for the test.</p>
-            <p>As a product designer I had to do user research, competition analysis, create user flows, brainstorming with stake holders and engineers involved to understand product architecture and impact areas. I also created high fidelity iterations and development ready designs. While the project was in development, I have worked closely with the front end team providing support and once development was completed, I was involved with the QA team for auditing and ensuring the intended experiences were delivered</p>
+            <p>There are various ways to create a test. A test that is based on a job role, based on a job description, or based on skill. It is also possible for a user to create a test entirely from scratch. All tests have a test overview area where the settings of the tests could be changed and also a list of questions. How the questions are populated in that question list depends on how the test was created. Once the user reaches this part the user can tailor-make it exactly how he/she wants it. My role was to understand the user’s pain points and redesign the question listing for the test.</p>
+            <p>As a product designer I had to do user research, competition analysis, create user flows, brainstorming with stakeholders and engineers involved to understand product architecture and impact areas. I also created high-fidelity iterations and development-ready designs. While the project was in development, I have worked closely with the front end team providing support and once development was completed, I was involved with the QA team for auditing and ensuring the intended experiences were delivered</p>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">How did I <br/>go about it?</div>
         <div class="resp-desc">
-            <p>The project was a major redesign, hence it was necessary to understand the current product and its users. Not only did this open up a large spectrum of design opportunities but also threw light on to areas that can get impacted by the project.</p>
+            <p>The project was a major redesign, hence it was necessary to understand the current product and its users. Not only did this open up a large spectrum of design opportunities but also threw light on areas that can get impacted by the project.</p>
         </div>
     </div>
 </div>
@@ -51,8 +51,8 @@
             <div class="step-description">
                 <div class="desc-row">
                     <p>The product is used for technical hiring. This product leverages the core functionality of the platform to do a technical assessment. The primary user is a Talent Acquisition Specialist(TA)</p>
-                    <p>The TA’s primary responsibility is to source candidates to meet their hiring goals . They use different tools and databases to find candidates. Once potential candidates are identified they need to assess them on skills before they invest time in scheduling an onsite interview. They create a test with the help of a hiring manager. Once the test is created, it’s sent out to candidates.</p>
-                    <p>The system has a role based access model. This enables different users to perform action and access information entitled to their role.</p>
+                    <p>The TA’s primary responsibility is to source candidates to meet their hiring goals. They use different tools and databases to find candidates. Once potential candidates are identified they need to assess them on skills before they invest time in scheduling an onsite interview. They create a test with the help of a hiring manager. Once the test is created, it’s sent out to candidates.</p>
+                    <p>The system has a role-based access model. This enables different users to perform action and access information entitled to their role.</p>
                 </div>
                 <div class="spacer"></div>
                 <div class="interview-block">
@@ -61,8 +61,7 @@
                     <p>To understand how users are currently recruiting a candidate for a technical role and the methods they use to do it efficiently</p>
                     <h5 >Expected Outcome</h5>
                     <p>To define the user profile, involved in the hiring of a technical role. </p>
-                    <p class="no-margin ">User 1: Recruiter</p>
-                    <p class="no-margin ">User 2: Interviewer</p>
+                    <p class="no-margin ">User: Recruiter</p>
                     <h5 >Ice breakers/intro (1-2mins) </h5>
                     <p class="no-margin ">What does your typical weekday look like? </p>
                     <p class="no-margin ">Tell me about your role at your company?</p>
@@ -76,10 +75,8 @@
                     <p class="no-margin ">What do you like or dislike about these other products or tools?</p>
                     <h4 class="in-header">Interview Results</h4>
                     <div class="col-2-img">
-                        <img 
-                            src="/images/qlStudy/interview001.jpg" alt="interview Image 1"/>
-                        <img 
-                        src="/images/qlStudy/interview002.jpg" alt="interview Image 2"/>
+                        <div> <img src="/images/qlStudy/interview001.jpg" alt="interview Image 1"/> </div>
+                        <div> <img src="/images/qlStudy/interview002.jpg" alt="interview Image 2"/> </div>
                     </div>
                     <h4 class="in-header extra-top">Outcome 1 : User Persona</h4>
                     <div class="profile-card">
@@ -88,10 +85,10 @@
                         </div>
                         <div class="profile-desc">
                             <p class="job-title">Talent Acquisition Specialist</p>
-                            <p class="job-title">Ankita Jain</p>
+                            <p class="job-title semi-bold-txt2" >Ankita Jain</p>
                             <div class="para-section">
-                                <p>Ankita is 32 years old. She is an MBA graduate and has 7+ years of experience in hiring. She is a specialist in technical hiring. Ankita is well versed with Microsoft office. Her day usually starts with hunting down talented candidates and finding a right fit for the required role. She does most of the ground work on various job search platforms like Linkedin, Naukri, etc. She knows the right keywords to search for particular role, courtesy of her experience in the industry. </p>
-                                <p>Ankita also is familiar with different application tracking softwares that are used in hiring. She has good communication skills and maintains a good relationship with the candidates and employees.</p>
+                                <p>Ankita is 32 years old. She is an MBA graduate and has 7+ years of experience in hiring. She is a specialist in technical hiring. Ankita is well versed with Microsoft office. Her day usually starts with hunting down talented candidates and finding the right fit for the required role. She does most of the groundwork on various job search platforms like Linkedin, Naukri, etc. She knows the right keywords to search for a particular role, courtesy of her experience in the industry. </p>
+                                <p>Ankita also is familiar with different application tracking software that are used in hiring. She has good communication skills and maintains a good relationship with the candidates and employees.</p>
                             </div>
                         </div>
                     </div>
@@ -102,7 +99,7 @@
                          src="/images/qlStudy/PNG/TAlifecycle@4x.png" alt="talent acquisition lifecycle diagram"/>
                     </div>
                     <h4 class="in-header extra-top">Outcome 3: Test creation lifecycle</h4>
-                    <p>An open ended discussion with Engineering, QA, Product manager and sales helped me gain more insights on why certain things were built the way it is right now</p>
+                    <p>Creating a test, inviting candidates to participate in it, and assessing their skills is the part where HackerEarth can contribute to shortlisting candidates. </p>
                     <div class="img-col-1">
                         <img 
                         src="/images/qlStudy/PNG/TAlifecycle%404x.png" alt="Test creation lifecycle diagram"/>
@@ -118,16 +115,16 @@
             </div>
             <div class="step-description">
                 <div class="desc-row">
-                    <p>An open ended discussion with Engineering, QA, Product manager and sales helped me gain more insights on why certain things were built the way it is right now</p>
+                    <p>An open-ended discussion with Engineering, QA, Product manager, and sales helped me gain more insights on why certain things were built the way it is right now</p>
                 </div>
                 <div class="img-grid-4">
                     <div class="col-2-img">
-                        <img  src="/images/qlStudy/interview003.jpg" alt="interview chart diagram number 6"/>
-                        <img  src="/images/qlStudy/interview004.jpg" alt="interview Image 4"/>
+                        <div> <img  src="/images/qlStudy/interview003.jpg" alt="interview chart diagram number 6"/> </div>
+                        <div> <img  src="/images/qlStudy/interview004.jpg" alt="interview Image 4"/> </div>
                     </div>
                     <div class="col-2-img">
-                        <img src="/images/qlStudy/interview005.jpg" alt="interview Image 5"/>
-                        <img src="/images/qlStudy/interview006.jpg" alt="interview Image 6"/>
+                        <div> <img src="/images/qlStudy/interview005.jpg" alt="interview Image 5"/> </div>
+                        <div> <img src="/images/qlStudy/interview006.jpg" alt="interview Image 6"/> </div>
                     </div>
                 </div>
             </div>
@@ -140,9 +137,9 @@
             </div>
             <div class="step-description">
                 <div>
-                    I used the product for catering to various scenarios to know if there are any gaps or constraints. I tried to map the structure out for the entire product even thought my job was only a small flow. Knowledge of the IA, layout of various components, features and more than anything, its setbacks and constraints were essential.<br/>
+                    I used the product for catering to various scenarios to know if there are any gaps or constraints. I tried to map the structure out for the entire product even though my job was only a small flow. Knowledge of the IA, layout of various components, features, and more than anything, its setbacks and constraints were essential.<br/>
                     <br/>
-                    As it is a redesign project, a prefect idea on what the boundaries were, was essential to start pushing them.
+                    As it is a redesign project, a perfect idea of what the boundaries were, was essential to start pushing them.
                 </div>
             </div>
         </div>
@@ -157,7 +154,7 @@
             </div>
             <div class="step-description">
                 <div class="desc-row">
-                    <p>The following were comments which the CSMs and sales team frequently heard from the users and conveyed to the team. On a deeper analysis on these lines, some interesting questions also arose!</p>
+                    <p>TThe following were comments which the CSMs and sales team frequently heard from the users and conveyed to the team. On a deeper analysis of these lines, some interesting questions also arose!</p>
                 </div>
                 <div class="img-col-1">
                     <img 
@@ -173,13 +170,11 @@
             <div class="step-description">
                 <div class="desc-row">
                     <p>Different layouts were tried out for providing all the necessary information in the right format</p>
-                    <div class="img-col-1 space-top-40">
-                        <img 
-                        src="/images/qlStudy/wireframe1.jpg" alt="wireframe Image 1"/>
-                    </div>
-                    <div class="img-col-1 space-top-40">
-                        <img 
-                        src="/images/qlStudy/wireframe2.jpg" alt="wireframe Image 2"/>
+                    <div class="col-2-img">
+                        <div> <img 
+                            src="/images/qlStudy/wireframe2.jpg" alt="wireframe 1 from notebook"/> </div>
+                        <div> <img 
+                            src="/images/qlStudy/wireframe1.jpg" alt="wireframe 2 from notebook"/> </div>
                     </div>
                 </div>
             </div>
@@ -191,7 +186,7 @@
             </div>
             <div class="step-description">
                 <div class="desc-row">
-                    <p>Being an information layout challenge, the wire-framing steps were limited to paper and white board. Most of the explorations for the question lists were done with UI.</p>
+                    <p>Being an information layout challenge, the wire-framing steps were limited to paper and whiteboard. Most of the explorations for the question lists were done with UI.</p>
                     <div class="img-col-1 space-top-40 screeshot-wrapper">
                         <img 
                         src="/images/qlStudy/q1.png" alt="wireframe Image 1"/>
@@ -205,7 +200,7 @@
                         <img 
                         src="/images/qlStudy/q3.png" alt="wireframe Image 2"/>
                     </div>
-                    <p class="space-top-40">Also to enhance grouping, I applied gestalts principle of common religion and proximity. To do this, instead of grouping I changed the background colour to grey. This added more contrast between the cards and the background which helped the user perceive each card as separate and all the cards which were closer to each other as a group. This was well received by the users and the stake holders. Different</p>
+                    <p class="space-top-40">I applied the Gestalts principle of common religion and proximity. To do this, instead of grouping I changed the background colour to grey. This added more contrast between the cards and the background, which helped the user perceive each card as separate and all the cards that were closer to each other. This was well received by the users and the stakeholders. Different layouts were tried and tested.</p>
                     <div class="img-col-1  screeshot-wrapper space-top-40 screeshot-wrapper">
                         <img 
                         src="/images/qlStudy/q4.png" alt="wireframe Image 2"/>
@@ -224,7 +219,7 @@
             </div>
             <div class="step-description">
                 <div>
-                    The following information were identified as the essential information to identify a question and were arranged on a card.
+                    The following information was identified as the essential information to identify a question and was arranged on a card.
                 </div>
             </div>
         </div>
@@ -239,7 +234,7 @@
             </div>
             <div class="step-description">
                 <div class="desc-row">
-                    <p>Different designs for the question card was explored and most preferred item was picked from various user calls and stake holder meetings.</p>
+                    <p>Different designs for the question card were explored. The most preferred item was picked from various user calls and stakeholder meetings.</p>
                 </div>
                 <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
                     <img 
@@ -282,16 +277,16 @@
             </div>
             <div class="step-description">
                 <div class="desc-row">
-                    <p>I laid out all the information about a question in a table format where each question would be a separate line and a user can click on any question and it would expand to show more details of the question. Even thought it was easy to scan through various questions, the information which an accordion can hold was very minimal. A question had a lot of parameters such as test cases, code checker parameters, etc, which could be overwhelming to showcase on an expanded view. This also makes is difficult to scroll if the question is big.</p>
+                    <p>I laid out all the information about a question in a table format where each question would be a separate line and a user can click on any question and it would expand to show more details of the question. Even though it was easy to scan through various questions, an accordion can hold very minimal. A question had a lot of parameters such as test cases, code checker parameters, etc, which could be overwhelming to showcase on an expanded view. This also makes it difficult to scroll if the question is big.</p>
                     <p class="no-margin ">I decided to divide the question detail into 2 halves.</p>
                     <p class="no-margin ">1. A small set of information which could help a user identify a question and </p>
                     <p class="no-margin ">2. Full detail about how the question is configured. </p>
                     <p class="no-margin ">This also included the question’s analytics on how id was doing in the past.</p>
                     <div class="img-col-2">
-                        <img src="/images/qlStudy/Flyoutimage001 .jpg"  alt="wireframe Image 1"/>
-                        <img src="/images/qlStudy/Flyoutimage002.jpg"  alt="wireframe Image 1"/>
+                        <div> <img src="/images/qlStudy/Flyoutimage001.jpg"  alt="wireframe Image 1"/> </div>
+                        <div> <img src="/images/qlStudy/Flyoutimage002.jpg"  alt="wireframe Image 1"/> </div>
                     </div>
-                    <p>From a couple of customer calls, what we realised is that when a user is in a particular question’s context, they are not looking for anything else. So I designed a fly-out overlay which takes the user quickly into the details of the question (in a read only mode) without taking them having to navigate away from the test listing’s context.</p>
+                    <p>From a couple of customer calls, what we realised is that when a user is in a particular question’s context, they are not looking for anything else. So I designed a fly-out overlay that takes the user quickly into the details of the question (in a read-only mode) without taking them having to navigate away from the test listing’s context.</p>
                     <div class="img-col-1  screeshot-wrapper">
                         <img src="/images/qlStudy/QLcasestudyhome.jpg" alt="wireframe Image 2"/>
                     </div>
@@ -304,7 +299,7 @@
                 <h3>See <br/>Everything</h3>
             </div>
             <div class="step-description">
-                This quickly demonstrated value. There was a ton of information which was useful for the creator that surfaced as soon as the fly-out came into play. This information was otherwise inaccessible to the user. This info helped the user to choose a question better.
+                This quickly demonstrated value. There was a ton of information that was useful for the creator that surfaced as soon as the fly-out came into play. This information was otherwise inaccessible to the user. This info helped the user to choose a question better.
             </div>
         </div>
         <div class="img-col-1 space-top-40 screeshot-wrapper">
@@ -316,7 +311,7 @@
                 <h3>Make it <br/> Remake it</h3>
             </div>
             <div class="step-description">
-                The fly-out was extrapolated to serve more purposes like creating and editing a question. This added value for the user. Now the user with the right privileges can Create-View-Edit a question in same view. For all the other users, it’s a perfect detail pane.
+                The fly-out was extrapolated to serve more purposes like creating and editing a question. This added value for the user. Now the user with the right privileges can Create-View-Edit a question in the same view. For all the other users, it’s a perfect detail pane.
             </div>
         </div>
         <div class="img-col-1 screeshot-wrapper space-top-40">
@@ -350,7 +345,7 @@
             <div class="step-description">
                 <div class="desc-row">
                     <p>We did some AB testing with a few pilot customers who were part of our initial research. Various scenarios and tasks were given to the user to check if they were able to navigate through and accomplish their objectives.</p>
-                    <p>While most of the scenarios were addressed, there were some items that still needed some revisiting as we had parked them due to engineering constraints. These items were prioritised based on customer feedback numbers and picked up one by one in subsequent releases.</p>
+                    <p>While most of the scenarios were addressed, there were some items that still needed some revisiting as we had parked them due to engineering constraints. These items were prioritized based on customer feedback numbers and picked up one by one in subsequent releases.</p>
                 </div>
                 <div class="italic-text space-top-40">Question listing - Before</div>
                 <div class="img-col-1  screeshot-wrapper space-top-20">
@@ -381,10 +376,10 @@
         </div>
     </div>
     <div class="img-col-1 screeshot-wrapper no-top-margin">
-        <img src="/images/qlStudy/Screenshot1png.png" alt="wireframe Image 2"/>
+        <img src="/images/qlStudy/libraryhome.jpg" alt="Library Home"/>
     </div>
     <div class="img-col-1 screeshot-wrapper space-top-20">
-        <img src="/images/qlStudy/Screenshot2.png" alt="wireframe Image 2"/>
+        <img src="/images/qlStudy/librarysearch.jpg" alt="Library Search results"/>
     </div>
 </div>
 <div class="space-block-2"></div>
@@ -407,7 +402,7 @@
             </div>
             <h4 class="in-header"  style="margin-bottom:6px">Holistic picture, then tiny pieces</h4>
             <div class="desc-row">
-                <p>Designing tiny elements without looking at impact on the larger picture is not sustainable. On the contrary, if started with a wholistic approach, the product development lifecycle will be smoother and efficient. Once the overall picture is plotted out, adding details to each becomes cakewalk</p>
+                <p>Designing tiny elements without looking at the impact on the larger picture is not sustainable. On the contrary, if started with a holistic approach, the product development lifecycle will be smoother and efficient. Once the overall picture is plotted out, adding details to each becomes a cakewalk.</p>
             </div>
         </div>
     </div>

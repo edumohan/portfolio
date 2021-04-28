@@ -87,36 +87,27 @@
                     <p>Visual design for all the flows which were planned were created based on the design guidelines.</p>
                     <h4 style="margin-top:30px" class="in-header">Home Screen and Quick access</h4>
                     <div class="img-col-2 space-top-40 w-80-d">
-                        <img 
-                        src="/images/Alden/01_Home_Copy.png" alt="aldem flow diagram"/>
-                        <img 
-                        src="/images/Alden/02_Home-DatePicker.png" alt="aldem flow diagram"/>
+                        <div> <img src="/images/Alden/01_Home_Copy.png" alt="aldem flow diagram"/> </div>
+                        <div> <img src="/images/Alden/02_Home-DatePicker.png" alt="aldem flow diagram"/> </div>
                     </div>
                     <h4 style="margin-top:30px"  class="in-header space-top-40">Profile</h4>
                     <div class="img-col-2 space-top-40 w-80-d">
-                        <img 
-                        src="/images/Alden/03MenuCopy.png" alt="aldem flow diagram"/>
+                        <div> <img src="/images/Alden/03MenuCopy.png" alt="aldem flow diagram"/> </div>
                     </div>
                     <h4 style="margin-top:30px"  class="in-header">Leave application</h4>
                     <div class="img-col-2 space-top-40 w-80-d">
-                        <img 
-                        src="/images/Alden/06 Apply Leave - No Swipe.png" alt="aldem flow diagram"/>
-                        <img 
-                        src="/images/Alden/07 Apply Leave - No Swipe - Leave type.png" alt="aldem flow diagram"/>
+                        <div> <img src="/images/Alden/06 Apply Leave - No Swipe.png" alt="aldem flow diagram"/> </div>
+                        <div> <img src="/images/Alden/07 Apply Leave - No Swipe - Leave type.png" alt="aldem flow diagram"/> </div>
                     </div>
                     <h4 style="margin-top:30px"  class="in-header">Attendance & Holiday</h4>
                     <div class="img-col-2 space-top-40 w-80-d">
-                        <img 
-                        src="/images/Alden/08 Reimbusement success.png" alt="aldem flow diagram"/>
-                        <img 
-                        src="/images/Alden/09 Leave management.png" alt="aldem flow diagram"/>
+                        <div> <img src="/images/Alden/08 Reimbusement success.png" alt="aldem flow diagram"/> </div>
+                        <div> <img src="/images/Alden/09 Leave management.png" alt="aldem flow diagram"/> </div>
                     </div>
                     <h4 style="margin-top:30px"  class="in-header">Reimbursement</h4>
                     <div class="img-col-2 space-top-40  w-80-d">
-                        <img 
-                        src="/images/Alden/10 Reimbursement.png" alt="aldem flow diagram"/>
-                        <img 
-                        src="/images/Alden/11 Reimbursement application.png" alt="aldem flow diagram"/>
+                        <div> <img src="/images/Alden/10 Reimbursement.png" alt="aldem flow diagram"/> </div>
+                        <div> <img src="/images/Alden/11 Reimbursement application.png" alt="aldem flow diagram"/> </div>
                     </div>
                 </div>
             </div>
