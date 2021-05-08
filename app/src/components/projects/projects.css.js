@@ -45,6 +45,7 @@ export const Container = styled.div`
         }
         .project-link {
                 text-decoration:none;
+                transition: opacity .3s ease;
         }
         @media only screen and (max-width: 1000px) {
                 border-radius: 20px;
