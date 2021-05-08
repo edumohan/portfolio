@@ -116,7 +116,7 @@ export default createGlobalStyle`
     }
   }
   .intro-wrapper {
-    width: 460px;
+    width: 400px;
     font-size: 22px;
     line-height: 26px;
     margin: 120px auto 180px;
@@ -126,6 +126,10 @@ export default createGlobalStyle`
     }
     .intro-box {
       margin-top:9px;
+    }
+    .me-into-p {
+      font-size: 22px;
+    line-height: 28px;
     }
   }
   .intro-footer {
@@ -137,6 +141,7 @@ export default createGlobalStyle`
       color: #2C3454;
     }
   }
+
   a:hover {
     opacity:.5;
   }
@@ -154,7 +159,7 @@ export default createGlobalStyle`
     font-weight: 500;
   }
   .strong {
-    font-weight: 700;
+    font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
   }
   i {
     font-style: italic;

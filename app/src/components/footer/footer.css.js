@@ -2,8 +2,9 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   margin-bottom: 70px;
-  padding: 0px 82px;
-  margin-top: 200px;
+  padding: 100px 82px;
+  margin-top: 100px;
+  background-color:#F4F8FE;
   a {
     transition: color 0.2s ease;
     text-decoration: none;
@@ -16,7 +17,7 @@ export const Container = styled.div`
     margin:0 auto;
   }
   .footer-note {
-    margin: 120px auto;
+    margin: 120px auto 0px auto;
     font-size: 12px;
     text-align: center;
     width: 35%;

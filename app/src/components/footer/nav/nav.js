@@ -4,12 +4,7 @@ import { Container } from './nav.css';
 
 const Nav = () => (
   <Container>
-    <ul>
-      <li>
-        <Link
-          to="/"
-          >Home</Link>
-      </li>
+    <ul className="project-links">
       <li>
         <Link to="/project/?id=qlCaseStudy" >HackerEarth</Link>
       </li>
@@ -22,6 +17,11 @@ const Nav = () => (
       <p>Contact Me</p>
     </div>
     <ul className="foot-nav">
+      <li>
+        <Link
+          to="/"
+          >Home</Link>
+      </li>
       <li>
         <Link to="/about">About me</Link>
       </li>

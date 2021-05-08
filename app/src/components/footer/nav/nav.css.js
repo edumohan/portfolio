@@ -10,6 +10,7 @@ export const Container = styled.nav`
       font-size: 16px;
       font-weight: 500;
       text-transform: capitalize;
+      font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
     }
     a:hover {
       opacity: .5;
@@ -24,17 +25,22 @@ export const Container = styled.nav`
   .more-questions {
     display: block;
     text-align: center;
-    font-size: 32px;
-    font-weight: bold;
-    margin: 120px 0px 40px 0px;
+    margin: 100px 0px 80px 0px;
     p {
-      margin-bottom: 6px;
+      margin-bottom: 12px;
+      font-size: 26px;
+      font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
     }
   }
   .foot-nav {
     a{
-      font-size: 16px;
+      font-size: 14px;
       text-transform: capitalize;
+    }
+  }
+  .project-links{
+    a {
+      font-size:20px;
     }
   }
 `;

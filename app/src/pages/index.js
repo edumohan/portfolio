@@ -10,7 +10,9 @@ const Index = ({ data }) => (
     <div className="intro-wrapper">
       <div>
         Hi, {`I'm`} <span className="strong">Edu.</span>
+
       </div>
+      <br/>
       <div className="intro-box">
         <p className="me-into-p">
           {`I understand `}
