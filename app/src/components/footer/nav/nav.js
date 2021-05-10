@@ -11,6 +11,9 @@ const Nav = () => (
       <li>
         <Link to="/project/?id=aldenCaseStudy">Alden</Link>
       </li>
+      <li>
+        <Link to="/project/?id=botbuilderCaseStudy" >Bot Buiilder</Link>
+      </li>
     </ul>
     <div className="more-questions">
       <p>More questions?</p>

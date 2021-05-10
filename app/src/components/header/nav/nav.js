@@ -20,6 +20,7 @@ const Nav = () => (
         <div className="projects-list">
           <Link  to="/project/?id=qlCaseStudy">HackerEarth</Link>
           <Link  to="/project/?id=aldenCaseStudy">Alden</Link>
+          <Link  to="/project/?id=botbuilderCaseStudy">Bot Builder</Link>
         </div>
       </li>
       <li>

@@ -12,6 +12,12 @@
             "bgColor":"#FBF074",
             "color":"#2C3454",
             "content":"contents/aldenCaseStudy/content.md"
+        },
+        {
+            "id":"botbuilderCaseStudy",
+            "bgColor":"#4EBEA5",
+            "color":"#2C3454",
+            "content":"contents/botbuilderCaseStudy/content.md"
         }
     ]
 }
