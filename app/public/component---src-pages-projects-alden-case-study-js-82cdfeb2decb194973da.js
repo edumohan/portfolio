@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{ZhtV:function(e,t,n){"use strict";n.r(t);var a=n("8k0H"),r=n("q1tI"),c=n.n(r);t.default=function(e){var t=e.data,n=Object(r.useRef)();return Object(r.useEffect)((function(){n.current.innerHTML=t.aldenCaseStudyJson.content.childMarkdownRemark.html})),c.a.createElement(a.a,null,c.a.createElement("div",{ref:n,id:"projectWrapper",className:"project-wrapper"}))}}}]);
+//# sourceMappingURL=component---src-pages-projects-alden-case-study-js-82cdfeb2decb194973da.js.map
