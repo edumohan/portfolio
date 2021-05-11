@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Layout from 'components/layout';
 import Projects from 'components/projects';
-import { useStaticQuery, graphql, Link } from "gatsby";
+import { graphql, Link } from 'gatsby';
 
 const Index = ({ data }) => (
   <Layout>

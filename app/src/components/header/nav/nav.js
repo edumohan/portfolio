@@ -50,22 +50,4 @@ const Nav = () => {
 }
 
 export default Nav;
-/*
 
-export const query = graphql`
-  query NavQuery {
-    projectsJson {
-      projects {
-        title
-        desc
-        date
-        image
-        link
-        id
-        bgColor
-        color
-      }
-    }
-  }
-`;
-*/
