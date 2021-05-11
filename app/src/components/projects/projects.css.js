@@ -36,7 +36,7 @@ export const Container = styled.div`
         .project-desc {
                 margin-top: 24px;
                 opacity: .8;
-                line-height: 22px;
+                line-height: 25px;
                 font-size: 15px;
         }
         .project-date {

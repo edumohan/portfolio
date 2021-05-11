@@ -10,7 +10,6 @@ export const Container = styled.nav`
       font-size: 16px;
       font-weight: 500;
       text-transform: capitalize;
-      font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
     }
     a:hover {
       opacity: .5;
@@ -29,7 +28,6 @@ export const Container = styled.nav`
     p {
       margin-bottom: 12px;
       font-size: 26px;
-      font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
     }
   }
   .foot-nav {

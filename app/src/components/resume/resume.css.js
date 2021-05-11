@@ -18,10 +18,11 @@ export const Container = styled.div`
             margin-bottom: 50px;
         }
         h3 {
+            font-family: 'Avenir Book';
             font-weight: 600;
             padding:0;
-            font-size: 26px;
-            line-height: 30px;
+            font-size: 36px;
+            line-height: 49px;
         }
         .date-row {
             color: #9296A4;
@@ -81,7 +82,7 @@ export const Container = styled.div`
             img {
                 width: 100%;
                 display: block;
-                margin-bottom: 22px;
+                margin-bottom: 25px;
             }
         }
         .thannk-you h3 {

@@ -9,6 +9,10 @@ const About = ({ data }) => (
   <Layout>
     <div id="aboutContainer" className="about-wrapper">
       <div className="banner-wrap">
+        <div className="floating-text">
+          <h3>Hi There,</h3> 
+          <h3>{`I'm`} Edu.</h3>
+        </div>
         <img
           src="/images/Aboutme/IMG_20210330_122946_349.jpg"
           alt="edu mohan standing near by a cliff ;)"

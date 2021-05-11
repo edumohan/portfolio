@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 import { accent } from 'constants/theme';
-import "fonts/proxima-nova.css";
+import "fonts/stylesheet.css";
 
 export default createGlobalStyle`
 
@@ -21,7 +21,7 @@ export default createGlobalStyle`
     padding: 0;
     border: 0;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 25px;
     font: inherit;
     vertical-align: baseline;
   }
@@ -39,7 +39,7 @@ export default createGlobalStyle`
     font-size: 62.5%;
   }
   body {
-    font-family: 'proxima-nova', Georgia, sans-serif;
+    font-family: 'Avenir Book', Georgia, sans-serif;
     line-height: 1;
     font-size: 1.6rem;
     color: #2C3454;
@@ -53,10 +53,10 @@ export default createGlobalStyle`
     font-variant-numeric: proportional-nums;
   }
   h1,h2,h3,h5,.semi-bold-txt2{
-    font-family: 'proxima-nova-bold', Georgia, sans-serif;
+    font-family: 'Avenir', Georgia, sans-serif;
   }
   h4,h6{
-    font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
+    font-family: 'Avenir',Georgia,sans-serif;
   }
 
   ol, ul {
@@ -82,7 +82,7 @@ export default createGlobalStyle`
     color: ${accent};
   }
   p {
-    line-height: 22px;
+    line-height: 25px;
     font-size: 18px;
   }
 
@@ -117,7 +117,7 @@ export default createGlobalStyle`
   }
   .intro-wrapper {
     width: 400px;
-    font-size: 22px;
+    font-size: 25px;
     line-height: 26px;
     margin: 120px auto 180px;
     font-weight: 200;
@@ -128,7 +128,7 @@ export default createGlobalStyle`
       margin-top:9px;
     }
     .me-into-p {
-      font-size: 22px;
+      font-size: 25px;
     line-height: 28px;
     }
   }
@@ -156,10 +156,11 @@ export default createGlobalStyle`
     }
   }
   .double-strong {
-    font-weight: 500;
+    font-family: 'Avenir',Georgia,sans-serif;
+    font-weight: 900;
   }
   .strong {
-    font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
+    font-family:'Avenir',Georgia,sans-serif;
   }
   i {
     font-style: italic;
@@ -197,10 +198,13 @@ export default createGlobalStyle`
       margin: 100px auto 100px auto;
     }
     .about-head {
-      font-weight: 600;
       padding: 18px 60px 10px 0px;
-      font-size: 26px;
-      line-height: 30px;
+      h3 {
+        font-size: 36px;
+        line-height: 49px;
+        font-weight: 600;
+        font-family: 'Avenir Book';
+      }
       width: 30%;
     }
     .about-desc-left {
@@ -211,7 +215,7 @@ export default createGlobalStyle`
       p {
         margin:0px 0px 9px 0px;
         font-size: 18px;
-        line-height: 22px;
+        line-height: 25px;
       }
       .contact-row {
         font-weight: 600;
@@ -219,6 +223,8 @@ export default createGlobalStyle`
     }
   }
   .italic-text {
+    font-family: 'Avenir Book';
+    font-weight: normal;
     font-style: italic;
   }
   .space-block {
@@ -238,6 +244,17 @@ export default createGlobalStyle`
     width: 100%;
     overflow: hidden;
     border-radius: 20px;
+    position: relative;
+    .floating-text {
+      position: absolute;
+      color: #FFFFFF;
+      padding: 120px 50px;
+      h3 {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 49px;
+      }
+    }
     img {
       width:100%;
     }
@@ -307,12 +324,12 @@ export default createGlobalStyle`
       font-weight: 700;
       padding-right: 50px;
       line-height: 30px;
-      font-family: 'proxima-nova-bold',Georgia,sans-serif;
+      font-family: 'Avenir',Georgia,sans-serif;
     }
     .resp-desc {
       width: 70%;
       font-size: 18px;
-      line-height: 22px;
+      line-height: 25px;
     }
     .step-container {
       background-color: #F7F8FA;
@@ -331,7 +348,7 @@ export default createGlobalStyle`
     .step-description {
       width: 70%;
       font-size: 18px;
-      line-height: 22px;
+      line-height: 25px;
       h5 {
         font-weight: 600;
         font-size: 18px;
@@ -347,7 +364,7 @@ export default createGlobalStyle`
       p {
         margin-bottom: 20px;
         font-size: 18px;
-        line-height: 22px;
+        line-height: 25px;
       }
     }
     .col-2-img, .img-col-2 {

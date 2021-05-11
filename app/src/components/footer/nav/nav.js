@@ -15,6 +15,11 @@ const Nav = () => {
   `)
   return (<Container>
     <ul className="project-links">
+      <li>
+        <Link
+          to="/"
+          >Home</Link>
+      </li>
       {
         data.projectsJson.projects.map((item,i)=> {
           return (<li key={i} ><Link to={`/projects/${item.id}`}>{item.title}</Link></li>)
@@ -22,15 +27,8 @@ const Nav = () => {
       }
     </ul>
     <div className="more-questions">
-      <p>More questions?</p>
-      <p>Contact Me</p>
     </div>
     <ul className="foot-nav">
-      <li>
-        <Link
-          to="/"
-          >Home</Link>
-      </li>
       <li>
         <Link to="/about">About me</Link>
       </li>
