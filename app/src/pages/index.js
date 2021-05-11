@@ -2,8 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Layout from 'components/layout';
 import Projects from 'components/projects';
-import { graphql } from 'gatsby';
-import { Link } from 'gatsby';
+import { useStaticQuery, graphql, Link } from "gatsby";
 
 const Index = ({ data }) => (
   <Layout>
@@ -42,7 +41,7 @@ const Index = ({ data }) => (
       {/*<div style={{ height: '50vh' }} />
       <IOExample />
     <Gallery items={data.homeJson.gallery} />*/}
-      <Projects items={data.homeJson.projects} />
+      <Projects/>
     </div>
   </Layout>
 );
@@ -62,16 +61,6 @@ export const query = graphql`
           html
           rawMarkdownBody
         }
-      }
-      projects {
-        title
-        desc
-        date
-        image
-        link
-        id
-        bgColor
-        color
       }
     }
   }

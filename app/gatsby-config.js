@@ -29,5 +29,15 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: '@mkitio/gatsby-theme-password-protect',
+      options: {
+        partialMatching: true,
+        pagePaths:[
+          '/projects/private'
+        ],
+        password: 'e1d1u1'
+      }
+    },
   ],
 };

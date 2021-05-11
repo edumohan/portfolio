@@ -1,11 +1,27 @@
 import React from 'react';
 import { Container } from './projects.css';
-import { Link } from 'gatsby';
+import { useStaticQuery, graphql, Link } from "gatsby";
 
-const ProjectsGrid = ({ items }) => (
-  <Container>
+const ProjectsGrid = ({ items }) => {
+  const data = useStaticQuery(graphql`
+    query ProjectsQuery {
+      projectsJson {
+        projects {
+          title
+          desc
+          date
+          image
+          link
+          id
+          bgColor
+          color
+        }
+      }
+    }
+  `)
+  return (<Container>
   {
-    items.map((item, i) => {
+    data.projectsJson.projects.map((item, i) => {
       const {
         title,
         date,
@@ -15,7 +31,7 @@ const ProjectsGrid = ({ items }) => (
         bgColor,
         color
       } = item;
-      return (<Link className="project-link" key={i} to={`/project/?id=${link}`}>
+      return (<Link className="project-link" key={i} to={`/projects/${link}`}>
         <div id="projectContainer" style={{backgroundColor:`${bgColor}`, color:`${color}`}}  className="project-item">
           <div className="project-left">
             <h1>{title}</h1>
@@ -30,7 +46,7 @@ const ProjectsGrid = ({ items }) => (
       </Link>)
     })
   }
-  </Container>
-);
+  </Container>)
+};
 
 export default ProjectsGrid;
