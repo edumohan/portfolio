@@ -52,11 +52,22 @@ export default createGlobalStyle`
     font-feature-settings: "pnum";
     font-variant-numeric: proportional-nums;
   }
-  h1,h2,h3,h5,.semi-bold-txt2{
+  h1,h2,h3,.semi-bold-txt2{
     font-family: 'Avenir', Georgia, sans-serif;
   }
-  h4,h6{
+  h5{
+    font-size: 18px;
+    font-weight: 900;
+  }
+  h4{
     font-family: 'Avenir',Georgia,sans-serif;
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 700;
+  }
+  h1{
+    font-size: 48px;
+    line-height: 66px;
   }
 
   ol, ul {
@@ -113,32 +124,6 @@ export default createGlobalStyle`
       float: left;
       width: 100%;
       min-height: calc(100vh -10px);
-    }
-  }
-  .intro-wrapper {
-    width: 400px;
-    font-size: 25px;
-    line-height: 26px;
-    margin: 120px auto 180px;
-    font-weight: 200;
-    h1 {
-      margin-bottom:24px;
-    }
-    .intro-box {
-      margin-top:9px;
-    }
-    .me-into-p {
-      font-size: 25px;
-    line-height: 28px;
-    }
-  }
-  .intro-footer {
-    font-size: 13px;
-    margin-top: 65px;
-    margin-bottom: 50px;
-    a {
-      text-decoration: none;
-      color: #2C3454;
     }
   }
 
@@ -278,14 +263,14 @@ export default createGlobalStyle`
       color:#FFFFFF;
       position:relative;
       h1 {
-        font-size: 40px;
-        font-weight: 600;
+        font-size: 48px;
+        line-height: 66px;
+        font-weight: 500;
       }
       .project-desc {
         margin-top: 24px;
-        opacity: .8;
-        line-height: 20px;
-        font-size: 15px;
+        line-height: 33px;
+        font-size: 24px;
       }
       .project-date {
         opacity: .8;
@@ -320,10 +305,10 @@ export default createGlobalStyle`
     }
     .resp-title {
       width: 30%;
-      font-size: 26px;
-      font-weight: 700;
+      font-size: 36px;
+      font-weight: 500;
       padding-right: 50px;
-      line-height: 30px;
+      line-height: 49px;
       font-family: 'Avenir',Georgia,sans-serif;
     }
     .resp-desc {
@@ -341,7 +326,7 @@ export default createGlobalStyle`
     .step-left {
       width: 30%;
       font-size: 26px;
-      font-weight: 700;
+      font-weight: 500;
       padding-right: 50px;
       line-height: 32px;
     }
