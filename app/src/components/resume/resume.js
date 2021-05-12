@@ -5,25 +5,6 @@ const Resume = () => (
     <Container>
         <div className="work-experience">
             <div className="left-column">
-                <h3 style={{paddingRight: "40px"}}>Schools <br/>I’ve been to</h3>
-            </div>
-            <div className="right-column">
-                <div className="exp-row">
-                    <div className="exp-head-row">
-                        <h4>{`IDC, IIT Bombay`}</h4><label>{`/ M.Des Product design`}</label>
-                    </div>
-                    <p className="date-row">2012 - 2014</p>
-                </div>
-                <div className="exp-row">
-                    <div className="exp-head-row">
-                        <h4>{`NSSCE, Palakkad`}</h4><label>{`/ B.Tech Mechanical Engineering`}</label>
-                    </div>
-                    <p className="date-row">2007 - 2011</p>
-                </div>
-            </div>
-        </div>
-        <div className="work-experience">
-            <div className="left-column">
                 <h3>What have I <br/>done so far</h3>
             </div>
             <div className="right-column">

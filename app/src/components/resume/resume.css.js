@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-        width: 90%;
-        margin: 100px auto 100px auto;
+        width: 100%;
+        padding:50px 100px;
         .resume-head {
             letter-spacing: 0px;
             color: #4EBEA5;
@@ -33,22 +33,23 @@ export const Container = styled.div`
             margin-bottom: 20px;
         }
         .left-column {
-            width: 34%;
+            width: 30%;
             padding-right: 95px;
         }
         .right-column {
             word-break: break-word;
-            width: 80%;
+            width: 70%;
         }
         .exp-head-row {
             display: flex;
+            align-items: baseline;
             label {
                 display: inline-block;
                 padding-left: 8px;
             }
         }
         h4 {
-            font-weight: 700;
+            font-weight: 100;
         }
         p {
             margin-bottom: 10px;

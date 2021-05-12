@@ -1,6 +1,7 @@
 
 <div class="banner-wrap">
-    <div style="color:#000000" class="blue-bg">
+    <div class="blue-bg">
+        <img class="project-logo" style="height:40px" src="/images/qlStudy/logo.png"/>
         <h1>
             Making a test easy for its creator
         </h1>
@@ -12,7 +13,7 @@
         <p class="project-date">
             HackerEarth  2019 May - 2020 Jan
         </p>
-        <div class="overflow-image">
+        <div class="overflow-image img-shadow">
             <img src="/images/qlStudy/QLcasestudyhome.jpg" alt="Making a test easy for its creator"/>
             <span style="background-color:#FFFFFF"></span>
         </div>
@@ -133,10 +134,10 @@
                 Interview Results
             </h4>
             <div class="col-2-img">
-                <div> 
+                <div class="img-shadow"> 
                     <img src="/images/qlStudy/interview001.jpg" alt="interview Image 1"/> 
                 </div>
-                <div> 
+                <div class="img-shadow"> 
                     <img src="/images/qlStudy/interview002.jpg" alt="interview Image 2"/>
                 </div>
             </div>
@@ -149,13 +150,15 @@
                         <img src="/images/qlStudy/ankita_dp.jpg"/>
                     </div>
                     <div class="profile-desc">
-                        <p class="job-title">
-                            Talent Acquisition Specialist
-                        </p>
                         <p class="job-title semi-bold-txt2" >
                             Ankita Jain
                         </p>
-                        <div class="para-section">
+                        <p class="job-title">
+                            Talent Acquisition Specialist
+                        </p>
+                    </div>
+                </div> 
+                <div class="para-section">
                             <p>
                                 Ankita is 32 years old. She is an MBA graduate and has 7+ years of experience in hiring. She is a specialist in technical hiring. Ankita is well versed with Microsoft office. Her day usually starts with hunting down talented candidates and finding the right fit for the required role. She does most of the groundwork on various job search platforms like Linkedin, Naukri, etc. She knows the right keywords to search for a particular role, courtesy of her experience in the industry 
                             </p>
@@ -163,8 +166,6 @@
                                 Ankita also is familiar with different application tracking software that are used in hiring. She has good communication skills and maintains a good relationship with the candidates and employees.
                             </p>
                         </div>
-                    </div>
-                </div> 
             </div>   
             <h4 class="extra-top">
                 Outcome 2: Talent acquisition lifecycle
@@ -172,7 +173,7 @@
             <p>
                 As a part of understanding the Talent acquisition partner’s association with the product, the lifecycle of hiring a candidate was also studied.
             </p>
-            <div class="img-col-1">
+            <div class="img-col-1 img-shadow">
                 <img src="/images/qlStudy/PNG/TAlifecycle@4x.png" alt="talent acquisition lifecycle diagram"/>
             </div>
             <h4 class="extra-top">
@@ -181,7 +182,7 @@
             <p>
                 Creating a test, inviting candidates to participate in it, and assessing their skills is the part where HackerEarth can contribute to shortlisting candidates. 
             </p>
-            <div class="img-col-1">
+            <div class="img-col-1 img-shadow">
                 <img src="/images/qlStudy/PNG/TAlifecycle%404x.png" alt="Test creation lifecycle diagram"/>
             </div>
         </div>
@@ -198,18 +199,18 @@
                 </div>
             <div class="img-grid-4">
                 <div class="col-2-img">
-                    <div> 
+                    <div class="img-shadow"> 
                         <img  src="/images/qlStudy/interview003.jpg" alt="interview chart diagram number 6"/> 
                     </div>
-                    <div> 
+                    <div class="img-shadow"> 
                         <img  src="/images/qlStudy/interview004.jpg" alt="interview Image 4"/> 
                     </div>
                 </div>
                 <div class="col-2-img">
-                    <div> 
+                    <div class="img-shadow"> 
                         <img src="/images/qlStudy/interview005.jpg" alt="interview Image 5"/> 
                     </div>
-                    <div> 
+                    <div class="img-shadow"> 
                         <img src="/images/qlStudy/interview006.jpg" alt="interview Image 6"/> 
                     </div>
                 </div>
@@ -229,7 +230,7 @@
             </p>
         </div>
     </div>
-    <div class="img-col-1">
+    <div class="img-col-1 img-shadow">
         <img src="/images/qlStudy/PNG/flowchart@4x.png"  alt="interview Image First hand experience"/>
     </div>
     <div class="resp-row">
@@ -242,7 +243,7 @@
                     The following were comments which the CSMs and sales team frequently heard from the users and conveyed to the team. On a deeper analysis of these lines, some interesting questions also arose!
                 </p>
             </div>
-            <div class="img-col-1">
+            <div class="img-col-1 img-shadow">
                 <img src="/images/qlStudy/PNG/empathymap@4x.png" alt="empathy diagram"/>
             </div>
         </div>
@@ -257,10 +258,10 @@
                     Different layouts were tried out for providing all the necessary information in the right format
                 </p>
                 <div class="col-2-img">
-                    <div> 
+                    <div class="img-shadow"> 
                         <img src="/images/qlStudy/wireframe2.jpg" alt="wireframe 1 from notebook"/> 
                     </div>
-                    <div> 
+                    <div class="img-shadow"> 
                         <img src="/images/qlStudy/wireframe1.jpg" alt="wireframe 2 from notebook"/>
                     </div>
                 </div>
@@ -276,25 +277,25 @@
                 <p>
                     Being an information layout challenge, the wire-framing steps were limited to paper and whiteboard. Most of the explorations for the question lists were done with UI.
                 </p>
-                <div class="img-col-1 space-top-40 screeshot-wrapper">
+                <div class="img-col-1 img-shadow space-top-40 screeshot-wrapper">
                     <img src="/images/qlStudy/q1.png" alt="wireframe Image 1"/>
                 </div>
-                <div class="img-col-1 screeshot-wrapper space-top-40 screeshot-wrapper">
+                <div class="img-col-1 img-shadow screeshot-wrapper space-top-40 screeshot-wrapper">
                     <img src="/images/qlStudy/q2.png" alt="wireframe Image 2"/>
                 </div>
                 <p class="space-top-40">
                     To improve readability on a particular question and to provide more clarity on the details of the question I explored moving the question from a list to a card format.
                 </p>
-                <div class="img-col-1  screeshot-wrapper space-top-40 screeshot-wrapper">
+                <div class="img-col-1 img-shadow  screeshot-wrapper space-top-40 screeshot-wrapper">
                     <img src="/images/qlStudy/q3.png" alt="wireframe Image 2"/>
                 </div>
                 <p class="space-top-40">
                     I applied the Gestalts principle of common religion and proximity. To do this, instead of grouping I changed the background colour to grey. This added more contrast between the cards and the background, which helped the user perceive each card as separate and all the cards that were closer to each other. This was well received by the users and the stakeholders. Different layouts were tried and tested.
                 </p>
-                <div class="img-col-1  screeshot-wrapper space-top-40 screeshot-wrapper">
+                <div class="img-col-1 img-shadow  screeshot-wrapper space-top-40 screeshot-wrapper">
                     <img src="/images/qlStudy/q4.png" alt="wireframe Image 2"/>
                 </div>
-                <div class="img-col-1  screeshot-wrapper space-top-40 screeshot-wrapper">
+                <div class="img-col-1 img-shadow  screeshot-wrapper space-top-40 screeshot-wrapper">
                     <img src="/images/qlStudy/q5.png" alt="wireframe Image 2"/>
                 </div>
             </div>
@@ -320,31 +321,31 @@
             <p>
                 Different designs for the question card were explored. The most preferred item was picked from various user calls and stakeholder meetings.
             </p>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card_1.jpg"  alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card2.jpg"  alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card3.jpg"  alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card4.jpg"  alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card5.jpg"  alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card6.jpg"  alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card7.jpg" alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card8.jpg" alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper screeshot-wrapper-2">
+            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
                 <img src="/images/qlStudy/card9.jpg" alt="wireframe Image 2"/>
             </div>
         </div>
@@ -377,7 +378,7 @@
                 <p>
                     From a couple of customer calls, what we realised is that when a user is in a particular question’s context, they are not looking for anything else. So I designed a fly-out overlay that takes the user quickly into the details of the question (in a read-only mode) without taking them having to navigate away from the test listing’s context.
                 </p>
-                <div class="img-col-1  screeshot-wrapper">
+                <div class="img-col-1 img-shadow  screeshot-wrapper">
                     <img src="/images/qlStudy/QLcasestudyhome.jpg" alt="wireframe Image 2"/>
                 </div>
             </div>
@@ -391,7 +392,7 @@
             This quickly demonstrated value. There was a ton of information that was useful for the creator that surfaced as soon as the fly-out came into play. This information was otherwise inaccessible to the user. This info helped the user to choose a question better.
         </div>
     </div>
-    <div class="img-col-1 screeshot-wrapper no-top-margin">
+    <div class="img-col-1 img-shadow screeshot-wrapper no-top-margin">
         <img src="/images/qlStudy/Viewmode.gif"  alt="wireframe Image 2"/>
     </div>
     <div class="resp-row">
@@ -402,7 +403,7 @@
             The fly-out was extrapolated to serve more purposes like creating and editing a question. This added value for the user. Now the user with the right privileges can Create-View-Edit a question in the same view. For all the other users, it’s a perfect detail pane.
         </div>
     </div>
-    <div class="img-col-1 screeshot-wrapper no-top-margin">
+    <div class="img-col-1 img-shadow screeshot-wrapper no-top-margin">
         <img src="/images/qlStudy/edit_view.gif"  alt="wireframe Image 2"/>
     </div>
     <div class="resp-row">
@@ -415,13 +416,13 @@
                     There were 16 types of questions. A tailor-made create and view mode was created for all 16 question types to cater to each one’s distinctive flows.
                 </p>
             </div>
-            <div class="img-col-1  screeshot-wrapper  space-top-40">
+            <div class="img-col-1 img-shadow  screeshot-wrapper  space-top-40">
                 <img src="/images/qlStudy/image_1.jpg" alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper  space-top-40">
+            <div class="img-col-1 img-shadow  screeshot-wrapper  space-top-40">
                 <img src="/images/qlStudy/image_2.jpg" alt="wireframe Image 2"/>
             </div>
-            <div class="img-col-1  screeshot-wrapper  space-top-40">
+            <div class="img-col-1 img-shadow  screeshot-wrapper  space-top-40">
                 <img src="/images/qlStudy/image_3.jpg" alt="wireframe Image 2"/>
             </div>
         </div>
@@ -442,32 +443,30 @@
             <div class="italic-text space-top-40">
                 Question listing - Before
             </div>
-            <div class="img-col-1  screeshot-wrapper space-top-20">
+            <div class="img-col-1 img-shadow  screeshot-wrapper space-top-20">
                 <img src="/images/qlStudy/before1.png" alt="wireframe Image 2"/>
             </div>
             <div class="italic-text space-top-40">
                 After
             </div>
-            <div class="img-col-1 screeshot-wrapper space-top-20">
+            <div class="img-col-1 img-shadow screeshot-wrapper space-top-20">
                 <img src="/images/qlStudy/programmingEditorialpopup.jpg" alt="wireframe Image 2"/>
             </div>
             <div class="italic-text space-top-40">
                 Programming question details - Before
             </div>
-            <div class="img-col-1 screeshot-wrapper space-top-20">
+            <div class="img-col-1 img-shadow screeshot-wrapper space-top-20">
                 <img src="/images/qlStudy/before2.png"  alt="wireframe Image 2"/>
             </div>
             <div class="italic-text space-top-40">
                 After
             </div>
-            <div class="img-col-1 screeshot-wrapper space-top-20">
+            <div class="img-col-1 img-shadow screeshot-wrapper space-top-20">
                 <img src="/images/qlStudy/programmingEditdescription.jpg" alt="wireframe Image 2"/>
             </div>
         </div>
     </div>
 </div>
-
-<div class="space-block-2"></div>
 <div class="resp-container project-footer">
     <div class="resp-row">
         <div class="resp-title">Did I <br/>Stop there?</div>
@@ -475,10 +474,10 @@
             A question was identified as one of the smallest independently existing entities in the evaluation system. Hence every existence of this entity should have a similar view. Based on this thought, I expanded the scope of the project to redesign the <strong>question library</strong> as well. It was a bonus pack for the dev team as we designed it in such a way that most components can be reused. This was picked up later on as a separate project.
         </div>
     </div>
-    <div class="img-col-1 screeshot-wrapper no-top-margin">
+    <div class="img-col-1 img-shadow screeshot-wrapper no-top-margin">
         <img src="/images/qlStudy/libraryhome.jpg" alt="Library Home"/>
     </div>
-    <div class="img-col-1 screeshot-wrapper space-top-20">
+    <div class="img-col-1 img-shadow screeshot-wrapper space-top-20">
         <img src="/images/qlStudy/librarysearch.jpg" alt="Library Search results"/>
     </div>
 </div>

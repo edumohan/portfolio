@@ -5,6 +5,7 @@ import ProjectsGrid from 'components/projects';
 
 const Projects = ({ data }) => (
   <Layout>
+    <div className="space-block "></div>
     <ProjectsGrid />
   </Layout>
 );

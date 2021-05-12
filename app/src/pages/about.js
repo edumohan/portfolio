@@ -20,7 +20,7 @@ const About = ({ data }) => (
       </div>
       <div className="about-desc">
         <div className="about-head">
-          <h3>Hey there!</h3>
+          <h3>Who am I?</h3>
         </div>
         <div className="about-desc-left">
           <p>{`I’m Edu, I like to believe that I’m a problem solver.`}</p>

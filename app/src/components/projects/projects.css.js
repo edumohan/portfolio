@@ -1,33 +1,35 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-        border-radius: 20px;
-        padding:0px 75px;
+        display: grid;
+        grid-template-columns: 450px 450px;
+        grid-gap: 40px;
+        width:920px;
+        margin:0 auto 120px auto;
         .project-item {
-                background-color: #091E5C;
-                border-radius: 20px;
+                border-radius: 20px 20px 20px 20px;
                 overflow: hidden;
-                padding: 64px 0px 64px 24px;
-                display: flex;
-                color: #FFFFFF;
-                align-items: center;
-                justify-content: space-between;
+                display:block;
+                position:relative;
+                height: 700px;
+                overflow: hidden;
         }
         .project-left {
-                align-items: center;
                 padding: 0px 60px;
-                width: 40%;
+                width: 100%;
                 font-weight: 600;
+                position:absolute;
+                top:400px;
+                left:0px;
+                z-index:3;
                 h1 {
-                        font-size: 40px;
+                        font-size: 30px;
                         font-weight: 600;
                     }
         }
         .projecy-image {
-                width: 650px;
-                border-radius: 20px 0px 0px 20px;
+                width: 100%;
                 overflow: hidden;
-                box-shadow: 0px 30px 60px 0px rgb(25 43 100 / 15%);
                 img {
                         display: block;
                         max-width: 100%;
@@ -47,18 +49,26 @@ export const Container = styled.div`
                 text-decoration:none;
                 transition: opacity .3s ease;
         }
+
         @media only screen and (max-width: 1000px) {
                 border-radius: 20px;
                 padding: 0px 24px;
+                width:100%;
+                display:block;
                 .project-item {
-                        padding: 50px 24px;
+                        padding: 24px;
                         display: block;
-                        color: #FFFFFF;
                         align-items: center;
+                        width:100%;
+                        height:auto;
+                        margin-bottom:40px;
                 }
                 .project-left {
                         padding: 0px 12px;
                         width: 100%;
+                        position:relative;
+                        bottom:0px;
+                        position:static;
                         h1 {
                                 font-size: 26px;
                                 font-weight: 600;
@@ -74,6 +84,7 @@ export const Container = styled.div`
                 .projecy-image {
                         width: 100%;
                         border-radius:20px;
+                        height:220px;
                     }
         }
 `;

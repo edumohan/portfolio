@@ -21,14 +21,8 @@ export const Container = styled.nav`
       margin:0 24px
     }
   }
-  .more-questions {
-    display: block;
-    text-align: center;
-    margin: 100px 0px 80px 0px;
-    p {
-      margin-bottom: 12px;
-      font-size: 26px;
-    }
+  .foot-nav {
+    margin-top: 40px;
   }
   .foot-nav {
     a{
@@ -39,6 +33,17 @@ export const Container = styled.nav`
   .project-links{
     a {
       font-size:20px;
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    ul {
+      display: block;
+      text-align:center;
+      li {
+        display:inline-block;
+        margin-top:20px;
+        width:50%;
+      }
     }
   }
 `;

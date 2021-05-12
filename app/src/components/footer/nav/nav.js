@@ -26,8 +26,6 @@ const Nav = () => {
         })
       }
     </ul>
-    <div className="more-questions">
-    </div>
     <ul className="foot-nav">
       <li>
         <Link to="/about">About me</Link>

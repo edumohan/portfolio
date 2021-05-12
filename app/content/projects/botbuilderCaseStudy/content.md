@@ -1,5 +1,6 @@
 <div class="banner-wrap">
-    <div style="color:#000000" class="blue-bg">
+    <div  class="blue-bg">
+        <img class="project-logo" src="/images/botbuilder/logo.png"/>
         <h1>
             Designing a Bot builder
         </h1>
@@ -9,10 +10,6 @@
         <p class="project-date">
             [24]7.ai  2018 Dec - 2019 Apr
         </p>
-        <div class="overflow-image">
-            <img src="/images/Alden/alden_project_main.jpg" alt="Alden case study images"/>
-            <span style="background-color:#4EBEA5"></span>
-        </div>
     </div>
 </div>
 <div class="resp-container">
@@ -37,7 +34,7 @@
             <h4 style="margin-top:40px" class="in-header">
                 [24]7 Solutions
             </h4>
-            <div class="img-col-1 space-top-40 screeshot-wrapper">
+            <div class="img-col-1 space-top-40 screeshot-wrapper img-shadow">
                 <img src="/images/botbuilder/bb1.jpg" alt="247 products"/>
             </div>
             <h5>
@@ -319,7 +316,7 @@
                 There’s a scenario agent launches the “bot-let” to resolve the issue faster, the flow is detailed in the link. AIVA engages the user first to start the conversation. Aiva identifies the intent and immediately hands it over to the agent from where the agent takes over. The agent assists the user to identify the issue and supports it manually. Once the issue is resolved, the agent requests the user to make the payment and deploys a payment bot-let. The bot-let gets stuck as the user wants to make the payment with a card different from the one that is saved. A notification is sent to the agent that the bot-let is stuck. Agent asks for card details and assists the user with payment. 
             </p>
             <h4 style="margin-top:40px" class="in-header">Proposed Optimisation</h4>
-            <div class="img-col-1">
+            <div class="img-col-1 img-shadow">
                 <img src="/images/botbuilder/bb2.png" alt="wireframe Image 1"/>
             </div>
         </div>
@@ -352,7 +349,7 @@
                 <br/>
                 While the flow for methods 2 and 3 is straightforward, there could be variations for method 1 in terms of visual elements, interactions, etc. Telling the user that an agent is taking care of the whole thing while the bot takes care of the standard flows might not be possible as a law is coming into effect from June in California stating that any bot interactions have to be explicitly mentioned.
             </p>
-            <div class="img-col-1">
+            <div style="padding:20px" class="img-col-1 img-shadow">
                 <img src="/images/botbuilder/bb3.jpg" alt="wireframe Image 1"/>
             </div>
         </div>
@@ -378,7 +375,7 @@
                 <br/>
                 The parameters that define the conversation can be made configurable such that for every intent-resolution pair, there exists a few variants of a standardized conversation.
             </p>
-            <div class="img-col-1">
+            <div class="img-col-1 img-shadow">
                 <img src="/images/botbuilder/bb4.png" alt="wireframe Image 1"/>
             </div>
         </div>
@@ -395,7 +392,7 @@
             <p>
                 The configurable parameters make the bot behave in different ways for the same intent-resolution par. This means a user is essentially changing the character or the personality of the bot. The foundation of behavioural patterns is based on agent training. This also ensures that the agent and the bot provide a similar experience for the visitor.
             </p>
-            <div class="img-col-1">                        
+            <div class="img-col-1 img-shadow">                        
                 <img src="/images/botbuilder/bb5.png" alt="wireframe Image 1"/>
             </div>
         </div>

@@ -118,7 +118,9 @@ export default createGlobalStyle`
     margin-bottom: 2rem;
   }
   #gatsby-focus-wrapper {
-    float: left;
+    float: none;
+    max-width:1400px;
+    margin:0 auto;
     width: 100%;
     >div{
       float: left;
@@ -153,6 +155,12 @@ export default createGlobalStyle`
   .hidden {
     display:none;
   }
+  .banner-wrap  img.project-logo {
+    margin: 0 auto 40px auto;
+    display: block;
+    height: 28px;
+    width: auto;
+  }
   .screeshot-wrapper {
     position: relative;
     display: flex;
@@ -161,34 +169,47 @@ export default createGlobalStyle`
       z-index:1;
     }
   }
-  .screeshot-wrapper::after {
-    top: 5%;
-    left: 5%;
-    height: 90%;
-    width: 90%;
-    margin: auto;
-    content: " ";
-    display: block;
-    position: absolute;
-    right: auto;
-    box-shadow: 0px 6px 40px rgb(25 45 100 / 26%);
-    z-index: 0;
-    background: #000000;
+  .intro-wrapper {
+    width: 400px;
+    font-size: 25px;
+    line-height: 26px;
+    margin: 120px auto 180px;
+    font-weight: 200;
+    h1 {
+      margin-bottom:24px;
+    }
+    .intro-box {
+      margin-top:9px;
+    }
+    .me-into-p {
+      font-size: 25px;
+    line-height: 28px;
+    }
+  }
+  .intro-footer {
+    font-size: 13px;
+    margin-top: 65px;
+    margin-bottom: 50px;
+    a {
+      text-decoration: none;
+      color: #2C3454;
+    }
   }
   .about-wrapper {
     padding: 0px 80px;
     .about-desc {
       display: flex;
-      width: 90%;
-      margin: 100px auto 100px auto;
+      width: 100%;
+      padding: 100px;
     }
     .about-head {
       padding: 18px 60px 10px 0px;
       h3 {
         font-size: 36px;
+        font-weight: 500;
+        padding-right: 50px;
         line-height: 49px;
-        font-weight: 600;
-        font-family: 'Avenir Book';
+        font-family: 'Avenir',Georgia,sans-serif;
       }
       width: 30%;
     }
@@ -230,10 +251,11 @@ export default createGlobalStyle`
     overflow: hidden;
     border-radius: 20px;
     position: relative;
+    margin-bottom: 40px;
     .floating-text {
       position: absolute;
       color: #FFFFFF;
-      padding: 120px 50px;
+      padding: 120px 100px;
       h3 {
         font-weight: 600;
         font-size: 36px;
@@ -246,7 +268,11 @@ export default createGlobalStyle`
   }
   .project-link {
     display: block;
-    margin-bottom: 50px;
+  }
+  .img-shadow {
+    box-shadow: 5px 5px 40px 0px rgb(107 120 188 / 21%);
+    border-radius: 10px;
+    overflow: hidden;
   }
   
 
@@ -260,7 +286,6 @@ export default createGlobalStyle`
       width: 100%;
       text-align: center;
       padding: 100px 100px 0px 100px;
-      color:#FFFFFF;
       position:relative;
       h1 {
         font-size: 48px;
@@ -268,7 +293,7 @@ export default createGlobalStyle`
         font-weight: 500;
       }
       .project-desc {
-        margin-top: 24px;
+        margin-top: 10px;
         line-height: 33px;
         font-size: 24px;
       }
@@ -288,6 +313,9 @@ export default createGlobalStyle`
         }
       }
     }
+    h4 {
+      margin-bottom:40px;
+    }
     .blue-bg span {
       content:" ";
       display:block;
@@ -302,6 +330,9 @@ export default createGlobalStyle`
     .resp-row {
       display: flex;
       padding: 50px 100px;
+    }
+    .resp-container > .img-col-1 {
+      margin:0px 100px;
     }
     .resp-title {
       width: 30%;
@@ -375,7 +406,7 @@ export default createGlobalStyle`
         width: 280px;
       }
     }
-    .step-description .extra-top {
+    .extra-top {
       margin-top:120px;
     }
     .img-col-space {
@@ -465,12 +496,16 @@ export default createGlobalStyle`
       display:flex;
       margin-bottom: 20px;
       margin-top: 40px;
-      align-items: center;
+      align-items: flex-end;
       .profile-round {
         display: block;
-        width: 170px;
-        border-radius: 20px 20px 20px 20px;
+        width: 93px;
+        border-radius: 10px 10px 10px 10px;
         overflow: hidden;
+        height: 173px;
+        img {
+          width: 100%;
+        }
       }
       .profile-desc {
         padding-left:26px;
@@ -516,7 +551,7 @@ export default createGlobalStyle`
     }
     h4 {
       margin-top: 40px;
-      margin-bottom:20px;
+      margin-bottom:40px;
       font-weight: 800;
       font-size: 18px;
     }
@@ -532,8 +567,13 @@ export default createGlobalStyle`
   .double-strong {
     font-weight:bold;
   }
-  .screeshot-wrapper-2::after {
-    box-shadow: 0px 6px 20px rgb(25 45 100 / 26%);
+  .footer-note {
+    font-size: 12px;
+    text-align: center;
+    width: 35%;
+    opacity: .5;
+    margin: auto;
+    padding: 40px;
   }
   @media only screen and (max-width: 1000px) {
     .intro-wrapper {
@@ -656,6 +696,10 @@ export default createGlobalStyle`
     .project-wrapper .img-col-1 {
       margin-top: 12px;
       margin-bottom: 12px;
+    }
+    .footer-note {
+      width: 100%;
+      padding:0px 10px;
     }
     .resp-container.project-footer {
       padding: 0px 15px;

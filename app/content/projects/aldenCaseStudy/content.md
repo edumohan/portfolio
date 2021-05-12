@@ -1,6 +1,7 @@
 
 <div class="banner-wrap">
-    <div style="color:#000000" class="blue-bg">
+    <div class="blue-bg">
+        <img class="project-logo" src="/images/Alden/logo.png"/>
         <h1>
             Creating a true friend at work
         </h1>
@@ -10,7 +11,7 @@
         <p class="project-date">
             Bokio 2017
         </p>
-        <div class="overflow-image">
+        <div class="overflow-image img-shadow">
             <img src="/images/Alden/alden_project_main.jpg" alt="Alden case study images"/>
             <span style="background-color:#FFFFFF"></span>
         </div>
@@ -86,7 +87,7 @@
             <p>
                 I created a rough architecture based on the primary research results. As the timeframe was short and it was a quick task, the research details are not documented.
             </p>
-            <div class="img-col-1">
+            <div style="padding:20px" class="img-col-1 img-shadow">
                 <img src="/images/Alden/Bokio_Flow.png" alt="aldem flow diagram"/>
             </div>
         </div>
@@ -101,7 +102,7 @@
             </p>
         </div>
     </div>
-    <div class="img-col-1">
+    <div style="padding:20px" class="img-col-1 img-shadow">
         <img src="/images/Alden/Group_25_3x.png" />
     </div>
     <div class="space-block-2">
@@ -120,7 +121,7 @@
                 Home Screen and Quick access
             </h4>
             <div class="img-col-2 space-top-40 w-80-d">
-                <div> 
+                <div > 
                     <img src="/images/Alden/01_Home_Copy.png" alt="aldem flow diagram"/> 
                 </div>
                 <div> 
@@ -164,7 +165,7 @@
                     <div> 
                         <img src="/images/Alden/10 Reimbursement.png" alt="aldem flow diagram"/> 
                     </div>
-                    <div> 
+                    <div > 
                         <img src="/images/Alden/11 Reimbursement application.png" alt="aldem flow diagram"/>
                     </div>
                 </div>

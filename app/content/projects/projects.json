@@ -4,30 +4,30 @@
       "title": "HackerEarth",
       "desc": "Redesigning the flow for managing and modifying a test question listing for a recruiter.",
       "date": "2019 May - 2020 Jan",
-      "image": "/images/projects/qlStudyPreview.jpg",
+      "image": "/images/projects/1_he.jpg",
       "link":"qlCaseStudy",
       "id":"qlCaseStudy",
       "bgColor":"#091E5C",
       "color":"#FFFFFF"
   },
   {
-      "title": "Bokio",
-      "desc": "Design exercise of creating a virtual employee assistant.",
-      "date": "2017",
-      "image": "/images/projects/aldenCover.jpg",
-      "link":"aldenCaseStudy",
-      "id":"aldenCaseStudy",
-      "bgColor":"#FBF074",
-      "color":"#2C3454"
-  },
-  {
     "title": "[24]7.ai",
     "desc": "System design for a chatbot builder",
     "date": "2018 Dec - 2019 Apr",
-    "image": "/images/projects/aldenCover.jpg",
+    "image": "/images/projects/2_247.jpg",
     "link":"botbuilderCaseStudy",
     "id":"botbuilderCaseStudy",
     "bgColor":"#4EBEA5",
     "color":"#2C3454"
-}]
+},
+  {
+      "title": "Bokio",
+      "desc": "Design exercise of creating a virtual employee assistant.",
+      "date": "2017",
+      "image": "/images/projects/3_bokio.jpg",
+      "link":"aldenCaseStudy",
+      "id":"aldenCaseStudy",
+      "bgColor":"#FBF074",
+      "color":"#2C3454"
+  }]
 }
