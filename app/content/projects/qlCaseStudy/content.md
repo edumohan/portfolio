@@ -80,6 +80,8 @@
             <p>
                 The system has a role-based access model. This enables different users to perform action and access information entitled to their role.
             </p>
+            <br/>
+            <br/>
             <h4>
                 Interview protocol
             </h4>
@@ -95,9 +97,6 @@
             <p>
                 To define the user profile, involved in the hiring of a technical role. 
             </p>
-            <p class="no-margin ">
-                User: Recruiter
-            </p>
             <h5>
                 Ice breakers/intro (1-2mins)
             </h5>
@@ -105,7 +104,9 @@
                 What does your typical weekday look like?
             </p>
             <p class="no-margin ">
-                Tell me about your role at your company?</p>
+                Tell me about your role at your company?
+            </p>
+            <br/>
             <h5>
                 Topic/Goal specific questions (15-20mins)
             </h5>
@@ -130,6 +131,8 @@
             <p class="no-margin ">
                 What do you like or dislike about these other products or tools?
             </p>
+            <br/>
+            <br/>
             <h4>
                 Interview Results
             </h4>

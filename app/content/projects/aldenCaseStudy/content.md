@@ -117,6 +117,7 @@
             <p>
                 Visual design for all the flows which were planned were created based on the design guidelines.
             </p>
+            <br/>
             <h4 style="margin-top:30px" class="in-header">
                 Home Screen and Quick access
             </h4>
@@ -128,6 +129,7 @@
                     <img src="/images/Alden/02_Home-DatePicker.png" alt="aldem flow diagram"/> 
                 </div>
                 </div>
+                <br/>
                 <h4 style="margin-top:30px"  class="in-header space-top-40">
                     Profile
                 </h4>
@@ -136,6 +138,7 @@
                         <img src="/images/Alden/03MenuCopy.png" alt="aldem flow diagram"/> 
                     </div>
                 </div>
+                <br/>
                 <h4 style="margin-top:30px"  class="in-header">
                     Leave application
                 </h4>
@@ -147,6 +150,7 @@
                         <img src="/images/Alden/07 Apply Leave - No Swipe - Leave type.png" alt="aldem flow diagram"/> 
                     </div>
                 </div>
+                <br/>
                 <h4 style="margin-top:30px"  class="in-header">
                     Attendance & Holiday
                 </h4>
@@ -158,6 +162,7 @@
                         <img src="/images/Alden/09 Leave management.png" alt="aldem flow diagram"/> 
                     </div>
                 </div>
+                <br/>
                 <h4 style="margin-top:30px"  class="in-header">
                     Reimbursement
                 </h4>

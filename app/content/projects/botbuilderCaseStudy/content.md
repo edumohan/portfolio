@@ -31,48 +31,56 @@
             <p>
                 There’s a scenario agent launches the “bot-let” to resolve the issue faster, the flow is detailed in the link. AIVA engages the user first to start the conversation. Aiva identifies the intent and immediately hands it over to the agent from where the agent takes over. The agent assists the user to identify the issue and supports it manually. Once the issue is resolved, the agent requests the user to make the payment and deploys a payment bot-let. The bot-let gets stuck as the user wants to make the payment with a card different from the one that is saved. A notification is sent to the agent that the bot-let is stuck. Agent asks for card details and assists the user with payment. 
             </p>
+            <br/>
             <h4 style="margin-top:40px" class="in-header">
                 [24]7 Solutions
             </h4>
             <div class="img-col-1 space-top-40 screeshot-wrapper img-shadow">
                 <img src="/images/botbuilder/bb1.jpg" alt="247 products"/>
             </div>
+            <br/>
             <h5>
                 [24]7 CustomerJourney Analytics
             </h5>
             <p>
                 This SaaS solution tracks and analyzes the way consumers interact with companies, making it easier to leverage insights from Big Data to drive continuous, measurable improvements across all customer experience touchpoints.
             </p>
+            <br/>
             <h5>
                 [24]7 Personalization
             </h5>
             <p>
                  A powerful machine-learning system that combines retargeting and predictive targeting to dynamically deliver ads with 200 percent better engagement than generic ads.[24]7 Predictive Search Bidding Our bidding engine automatically models the true value of search clicks and uses intent data to optimise campaign performance and deliver personalised customer journeys.
             </p>
+            <br/>
             <h5>   
                 [24]7 Active Share
             </h5>
             <p>
                 The ‘online canvas’ that provides rich visual experiences where a voice caller and agent can interact during a call.
             </p>
+            <br/>
             <h5>
                 [24]7 Chat
             </h5>
             <p>
                 The smart chat platform combines predictive models, intelligence, and rich content to make customer service and sales conversations intuitive and effective.
             </p>
+            <br/>
             <h5>   
                 [24]7 Digital Chat Agents
             </h5>
             <p>
                 The world’s best human talent combined with enabling technology creates brilliant customer experience and highly optimised performance.
             </p>
+            <br/>
             <h5>
                 [24]7 Platform
             </h5>
             <p>
                 The AI platform transforms data into decisions to create intent-driven experiences that are highly personalised—across channels, journeys, and devices.
             </p>
+            <br/>
             <h5>   
                 [24]7 AIVA
             </h5>
@@ -141,12 +149,14 @@
             <p>
                 Paul Grice was a British philosopher of language. His work on meaning has influenced the philosophical study of semantics. According to his studies and publications,There are set rules which can create/sustain a good conversation.
             </p>
+            <br/>
             <h5>
                 Cooperative Principles
             </h5>
             <p>
                 The cooperative principle describes how effective communication in conversation is achieved, that is, how listeners and speakers must act cooperatively and mutually accept one another to be understood in a particular way.
             </p>
+            <br/>
             <h5>
                 Theory of implicature
             </h5>
@@ -156,6 +166,7 @@
             <br/>
                 There could be a natural and non-natural meaning intended by the utterer ( the user ). This meaning should be inferred by the system to provide the user with the right response. The user could be “saying” certain things in a colloquial way which has to be elucidated by the system and mapped to what he/she is “meaning” to say.
             </p>
+            <br/>
             <h5>
                 The maxim of Quantity
             </h5>
@@ -163,18 +174,21 @@
                 Make the contribution as informative as is required for the current purposes of the exchange.
                 Do not make a contribution more informative than is required.
             </p>
+            <br/>
             <h5>  
                 Maxim of Quality: Truth
             </h5>
             <p>
                 Do not say what you believe to be false. Do not say that for which you lack adequate evidence.
             </p>
+            <br/>
             <h5>
                 Maxim of Relation: Relevance
             </h5>
             <p>
                 Be relevant.
             </p>
+            <br/>
             <h5>
                 Maxim of Manner: Clarity
             </h5>
@@ -246,9 +260,10 @@
                 The moment the term BOT is associated with it, there are a set of expectations that comes with it. This also forces the program to comply with all the rules which a bot does. 
                 <br/> 
                 <br/> 
-                “This raises the curiosity for a question, is the name BOTLET appropriate? 
-                <br/> 
-                If it’s a linear workflow and it’s not taking any decision, should it even be called as a BOT?”
+                <div class="quote">
+                    “This raises the curiosity for a question, is the name BOTLET appropriate? 
+                    If it’s a linear workflow and it’s not taking any decision, should it even be called as a BOT?”
+                </div>
             </p>
         </div>
     </div>
@@ -270,7 +285,7 @@
                 <br/>
                 Testing just for finding different conversations might not be the right approach, why?
                 <br/>
-                ) To get an absolute result, the same user should all variations of the conversation. 
+                1) To get an absolute result, the same user should all variations of the conversation. 
                 <br/>
                 2) User A testing conversation A and user B testing conversation B won’t produce an accurate result.
                 <br/>
@@ -291,7 +306,6 @@
                 <br/>
                 c) Other areas
                 <br/>
-                <br/>
                 Step 4: Identify which is the most occurring reason for failure
                 <br/>
                 Step 5: If it’s the quality of conversation, fix that and re-test.
@@ -299,7 +313,8 @@
                 Step 6: Improve other factors in the backend.   
                 <br/>
                 <br/>
-                A beautifully designed conversation is of no use if the primary purpose is not taken care of
+                <div class="quote"> "My biggest learning from the studying over 200 AIVA conversations was that A beautifully designed conversation is of no use if the primary purpose is not taken care of"
+                </div>
             </p>   
         </div>
     </div>
@@ -318,6 +333,10 @@
             <h4 style="margin-top:40px" class="in-header">Proposed Optimisation</h4>
             <div class="img-col-1 img-shadow">
                 <img src="/images/botbuilder/bb2.png" alt="wireframe Image 1"/>
+            </div>
+            <br/>
+            <div class="quote">
+                Reusing an already built solution + avoid back and forth + less time and effort = efficiency
             </div>
         </div>
     </div>
@@ -338,6 +357,7 @@
                 <br/>
                 However, the best experience for the visitor while the agent and bot are taking turns to resolve is still unknown. How to let the visitor know who is helping him/her without being intrusive is the challenge at hand. The following methods can be detailed out and tested to find the best outcome.
             </p>
+            </br>
             <h4 style="margin-top:30px" class="in-header">Proposed Optimisation</h4>
             <p>
                 1. The user is provided with transparency in who is on the other end of the conversation, I.e., if it’s a bot, we convey that it’s a bot.

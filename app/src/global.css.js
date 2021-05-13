@@ -21,7 +21,7 @@ export default createGlobalStyle`
     padding: 0;
     border: 0;
     font-size: 18px;
-    line-height: 25px;
+    line-height: 30px;
     font: inherit;
     vertical-align: baseline;
   }
@@ -56,13 +56,15 @@ export default createGlobalStyle`
     font-family: 'Avenir', Georgia, sans-serif;
   }
   h5{
+    font-family: 'Avenir';
     font-size: 18px;
+    line-height: 30px;
     font-weight: 900;
   }
   h4{
     font-family: 'Avenir',Georgia,sans-serif;
     font-size: 28px;
-    line-height: 38px;
+    line-height: 40px;
     font-weight: 700;
   }
   h1{
@@ -95,6 +97,7 @@ export default createGlobalStyle`
   p {
     line-height: 25px;
     font-size: 18px;
+    line-height: 30px;
   }
 
   pre {
@@ -221,7 +224,7 @@ export default createGlobalStyle`
       p {
         margin:0px 0px 9px 0px;
         font-size: 18px;
-        line-height: 25px;
+        line-height: 30px;
       }
       .contact-row {
         font-weight: 600;
@@ -345,7 +348,7 @@ export default createGlobalStyle`
     .resp-desc {
       width: 70%;
       font-size: 18px;
-      line-height: 25px;
+      line-height: 30px;
     }
     .step-container {
       background-color: #F7F8FA;
@@ -361,11 +364,19 @@ export default createGlobalStyle`
       padding-right: 50px;
       line-height: 32px;
     }
+    .quote {
+      font-family: 'Avenir Book';
+      font-weight: normal;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 33px;
+    }
     .step-description {
       width: 70%;
       font-size: 18px;
-      line-height: 25px;
+      line-height: 30px;
       h5 {
+        font-family: 'Avenir';
         font-weight: 600;
         font-size: 18px;
         margin-bottom: 6px;
@@ -374,13 +385,14 @@ export default createGlobalStyle`
       h4 {
         font-weight: 800;
         font-size: 24px;
+        line-height: 40px;
         margin-top: 80px;
         margin-bottom: 40px;
       }
       p {
         margin-bottom: 20px;
         font-size: 18px;
-        line-height: 25px;
+        line-height: 30px;
       }
     }
     .col-2-img, .img-col-2 {
@@ -457,14 +469,17 @@ export default createGlobalStyle`
       .semii-bold-txt1 {
         font-size:14px;
         font-size:18px;
+        line-height: 30px;
         font-weight:bold;
       }
       .bold-txt1 {
         font-size:18px;
+        line-height: 30px;
         font-weight:bold;
       }
       .regular-txt1 {
         font-size:18px;
+        line-height: 30px;
       }
       .grid-1 {
         background-color:#E0F1FF;
@@ -554,6 +569,7 @@ export default createGlobalStyle`
       margin-bottom:40px;
       font-weight: 800;
       font-size: 18px;
+      line-height: 30px;
     }
   }
   .resp-container.project-footer{
