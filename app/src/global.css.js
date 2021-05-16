@@ -687,14 +687,16 @@ export default createGlobalStyle`
         .profile-round {
           display: block;
           width: 150px;
-          border-radius: 20px 20px 20px 20px;
+          border-radius: 20px;
           overflow: hidden;
-          margin: 0 auto;
+          margin: 0px;
+          height: 240px;
           img {
             height: auto;
             overflow: hidden;
-            max-height: 100%;
-            width: 100%;
+            max-height: auto;
+            width: 100;
+            max-width: 100%;
           }
         }
         .profile-desc {
@@ -715,7 +717,8 @@ export default createGlobalStyle`
     }
     .footer-note {
       width: 100%;
-      padding:0px 10px;
+      padding: 0px 10px;
+      float: left;
     }
     .resp-container.project-footer {
       padding: 0px 15px;

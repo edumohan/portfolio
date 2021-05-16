@@ -96,11 +96,27 @@ export const Container = styled.div`
             margin:24px 0px;
             width: 100%;
             display:table;
+            padding: 0px;
             .work-experience {
                 display:block;
                 font-size: 12px;
                 float: left;
                 width: 100%;
+            }
+            h4{
+                font-size: 20px;
+                line-height: 24px;
+                margin-bottom: 8px;
+                
+            }
+            p.date-row{
+                font-size: 12px;
+            }
+            .exp-head-row {
+                display: block;
+                label{
+                    padding-left: 0px;
+                }
             }
             .left-column {
                 width: 100%;
