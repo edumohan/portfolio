@@ -720,6 +720,9 @@ export default createGlobalStyle`
       padding: 0px 10px;
       float: left;
     }
+    .banner-wrap  .floating-text {
+      padding:24px 12px;
+    }
     .resp-container.project-footer {
       padding: 0px 15px;
       .img-col-1 {
