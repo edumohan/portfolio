@@ -29,7 +29,7 @@
         </div>
         <div class="resp-desc">
             <p>
-                There’s a scenario agent launches the “bot-let” to resolve the issue faster, the flow is detailed in the link. AIVA engages the user first to start the conversation. Aiva identifies the intent and immediately hands it over to the agent from where the agent takes over. The agent assists the user to identify the issue and supports it manually. Once the issue is resolved, the agent requests the user to make the payment and deploys a payment bot-let. The bot-let gets stuck as the user wants to make the payment with a card different from the one that is saved. A notification is sent to the agent that the bot-let is stuck. Agent asks for card details and assists the user with payment. 
+                [24]7 is one of the world’s biggest players in customer support engagement and acquisition. They use Machine learning and artificial intelligence to redefine the ways for a client to interact with their customers.  Their technology helps their clients create a personalised, predictive, and effortless customer experience across all channels. Some of the world’s largest brands like Citibank, Hilton are using their intent-driven engagement model to assist several hundred million visitors annually. They have more than 1.5 billion conversations annually, of which most are automated. 
             </p>
             <br/>
             <h4 style="margin-top:40px" class="in-header">
@@ -50,7 +50,7 @@
                 [24]7 Personalization
             </h5>
             <p>
-                 A powerful machine-learning system that combines retargeting and predictive targeting to dynamically deliver ads with 200 percent better engagement than generic ads.[24]7 Predictive Search Bidding Our bidding engine automatically models the true value of search clicks and uses intent data to optimise campaign performance and deliver personalised customer journeys.
+                 A powerful machine-learning system that combines retargeting and predictive targeting to dynamically deliver ads with 200 percent better engagement than generic ads. [24]7 Predictive Search Bidding engine automatically models the true value of search clicks and uses intent data to optimise campaign performance and deliver personalised customer journeys.
             </p>
             <br/>
             <h5>   

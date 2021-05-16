@@ -24,8 +24,7 @@ const About = ({ data }) => (
         </div>
         <div className="about-desc-left">
           <p>{`I’m Edu, I like to believe that I’m a problem solver.`}</p>
-          <p>{`I like to believe that I’m a problem solver. 
-              I grew up with a passion for creation and an eye for beauty in everything around me, I believe every product should serve two purposes; primarily solve a problem and a visual appeal. I like to play around areas where there is a fine balance of technology and design. I enjoy exploring new ways to solve a challenge, blending form and function. I aspire to innovate and I get inspired when people challenge me with logic, rational and data. `}</p>
+          <p>{`I grew up with a passion for creation and an eye for beauty in everything around me, I believe every product should serve two purposes; primarily solve a problem and a visual appeal. I like to play around areas where there is a fine balance of technology and design. I enjoy exploring new ways to solve a challenge, blending form and function. I aspire to innovate and I get inspired when people challenge me with logic, rational and data. `}</p>
           <p className="para-space">{` I’ve worked in India and Germany for various design projects. I am currently leading a team of 4 designers in HackerEarth.`}</p>
           <p className="para-space">{`Feel free to contact me or ping me if you would like to get in touch`}</p>
           <p className="contact-row">+91 86557 84668 | edumohan@gmail.com</p>
