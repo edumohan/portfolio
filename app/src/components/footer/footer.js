@@ -1,16 +1,18 @@
-import React from 'react';
+import React, {Fragment} from 'react';
 import PropTypes from 'prop-types';
 import { Container } from './footer.css';
 import Nav from 'components/footer/nav';
 
 
 const Footer = () => (
-    <Container>
-      <Nav />
+    <Fragment>
+      <Container>
+        <Nav />
+      </Container>
       <div className="footer-note">
         All information in the projects are my own and does not necessarily reflect the views of respective companies. All the projects complies to the NDA
       </div>
-    </Container>
+    </Fragment>
 );
 
 Footer.propTypes = {

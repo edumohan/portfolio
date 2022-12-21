@@ -21,20 +21,29 @@ export const Container = styled.nav`
       margin:0 24px
     }
   }
-  .more-questions {
-    display: block;
-    text-align: center;
-    font-size: 32px;
-    font-weight: bold;
-    margin: 120px 0px 40px 0px;
-    p {
-      margin-bottom: 6px;
-    }
+  .foot-nav {
+    margin-top: 40px;
   }
   .foot-nav {
     a{
-      font-size: 16px;
+      font-size: 14px;
       text-transform: capitalize;
+    }
+  }
+  .project-links{
+    a {
+      font-size:20px;
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    ul {
+      display: block;
+      text-align:center;
+      li {
+        display:inline-block;
+        margin-top:20px;
+        width:50%;
+      }
     }
   }
 `;

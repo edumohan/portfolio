@@ -1,11 +1,27 @@
 import React from 'react';
 import { Container } from './projects.css';
-import { Link } from 'gatsby';
+import { useStaticQuery, graphql, Link } from "gatsby";
 
-const ProjectsGrid = ({ items }) => (
-  <Container>
+const ProjectsGrid = ({ items }) => {
+  const data = useStaticQuery(graphql`
+    query ProjectsQuery {
+      projectsJson {
+        projects {
+          title
+          desc
+          date
+          image
+          link
+          id
+          bgColor
+          color
+        }
+      }
+    }
+  `)
+  return (<Container>
   {
-    items.map((item, i) => {
+    data.projectsJson.projects.map((item, i) => {
       const {
         title,
         date,
@@ -15,22 +31,31 @@ const ProjectsGrid = ({ items }) => (
         bgColor,
         color
       } = item;
-      return (<Link className="project-link" key={i} to={`/project/?id=${link}`}>
-        <div id="projectContainer" style={{backgroundColor:`${bgColor}`, color:`${color}`}}  className="project-item">
+      return (<Link className="project-link" key={i} to={`/projects/${link}`}>
+        <div id="projectContainer" className="img-shadow project-item">
+          <div className="projecy-image">
+            <img src={image} alt={title} />
+          </div>
           <div className="project-left">
             <h1>{title}</h1>
             <p className="project-desc">{desc}</p>
             <p className="project-date">{date}</p>
-    
-          </div>
-          <div className="projecy-image">
-            <img src={image} alt={title} />
           </div>
         </div>
       </Link>)
     })
   }
-  </Container>
-);
+  <Link className="project-link" to={`/about`}>
+        <div id="projectContainer" className="img-shadow project-item">
+          <div className="projecy-image">
+          </div>
+          <div className="project-left">
+            <h1>Like what you see?</h1>
+            <p className="project-desc">Know more about me</p>
+          </div>
+        </div>
+    </Link>
+  </Container>)
+};
 
 export default ProjectsGrid;

@@ -5,33 +5,26 @@ const Resume = () => (
     <Container>
         <div className="work-experience">
             <div className="left-column">
-                <h3 style={{paddingRight: "40px"}}>Schools <br/>I’ve been to</h3>
-            </div>
-            <div className="right-column">
-                <div className="exp-row">
-                    <div className="exp-head-row">
-                        <h4>{`IDC, IIT Bombay`}</h4><label>{`/ M.Des Product design`}</label>
-                    </div>
-                    <p className="date-row">2012 - 2014</p>
-                </div>
-                <div className="exp-row">
-                    <div className="exp-head-row">
-                        <h4>{`NSSCE, Palakkad`}</h4><label>{`/ B.Tech Mechanical Engineering`}</label>
-                    </div>
-                    <p className="date-row">2007 - 2011</p>
-                </div>
-            </div>
-        </div>
-        <div className="work-experience">
-            <div className="left-column">
                 <h3>What have I <br/>done so far</h3>
             </div>
             <div className="right-column">
                 <div className="exp-row">
                     <div className="exp-head-row">
+                        <h4>{`Personio GmbH`}</h4><label>{`/ Senior product designer`}</label>
+                    </div>
+                    <p className="date-row">2022 June - present</p>
+                </div>
+                <div className="exp-row">
+                    <div className="exp-head-row">
+                        <h4>{`Babel GmbH`}</h4><label>{`/ Senior product designer`}</label>
+                    </div>
+                    <p className="date-row">2021 Aug - 2022 March</p>
+                </div>
+                <div className="exp-row">
+                    <div className="exp-head-row">
                         <h4>{`HackerEarth`}</h4><label>{`/ Senior product designer`}</label>
                     </div>
-                    <p className="date-row">2019 May - Present</p>
+                    <p className="date-row">2019 May - 2021 July</p>
                 </div>
                 <div className="exp-row">
                     <div className="exp-head-row">
@@ -66,7 +59,7 @@ const Resume = () => (
                             src="/images/Aboutme/IMG_6028.jpg"  alt=""/>
                         </figure>
                         <figure>
-                            <img 
+                            <img
                             src="/images/Aboutme/PMP_8188.jpg"  alt=""/>
                         </figure>
                         <figure>
@@ -75,15 +68,15 @@ const Resume = () => (
                     </div>
                     <div className="img-col-2">
                         <figure>
-                            <img 
+                            <img
                             src="/images/Aboutme/IMG_20210311_010044_724.jpg"  alt=""/>
                         </figure>
                         <figure>
-                            <img 
+                            <img
                             src="/images/Aboutme/shotGixxerkid.jpg"  alt=""/>
                         </figure>
                     </div>
-                    
+
                 </div>
             </div>
         </div>

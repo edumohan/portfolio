@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 import { accent } from 'constants/theme';
-import "fonts/proxima-nova.css";
+import "fonts/stylesheet.css";
 
 export default createGlobalStyle`
 
@@ -20,7 +20,8 @@ export default createGlobalStyle`
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 30px;
     font: inherit;
     vertical-align: baseline;
   }
@@ -37,9 +38,8 @@ export default createGlobalStyle`
   html {
     font-size: 62.5%;
   }
-
   body {
-    font-family: 'proxima-nova', Georgia, sans-serif;
+    font-family: 'Avenir Book', Georgia, sans-serif;
     line-height: 1;
     font-size: 1.6rem;
     color: #2C3454;
@@ -52,11 +52,24 @@ export default createGlobalStyle`
     font-feature-settings: "pnum";
     font-variant-numeric: proportional-nums;
   }
-  h1,h2{
-    font-family: 'proxima-nova-bold', Georgia, sans-serif;
+  h1,h2,h3,.semi-bold-txt2{
+    font-family: 'Avenir', Georgia, sans-serif;
   }
-  h3,h4,h5,h6 {
-    font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
+  h5{
+    font-family: 'Avenir';
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 900;
+  }
+  h4{
+    font-family: 'Avenir',Georgia,sans-serif;
+    font-size: 28px;
+    line-height: 40px;
+    font-weight: 700;
+  }
+  h1{
+    font-size: 48px;
+    line-height: 66px;
   }
 
   ol, ul {
@@ -82,8 +95,9 @@ export default createGlobalStyle`
     color: ${accent};
   }
   p {
-    line-height: 20px;
-    font-size: 16px;
+    line-height: 25px;
+    font-size: 18px;
+    line-height: 30px;
   }
 
   pre {
@@ -107,7 +121,9 @@ export default createGlobalStyle`
     margin-bottom: 2rem;
   }
   #gatsby-focus-wrapper {
-    float: left;
+    float: none;
+    max-width:1400px;
+    margin:0 auto;
     width: 100%;
     >div{
       float: left;
@@ -115,28 +131,7 @@ export default createGlobalStyle`
       min-height: calc(100vh -10px);
     }
   }
-  .intro-wrapper {
-    width: 460px;
-    font-size: 22px;
-    line-height: 26px;
-    margin: 120px auto 180px;
-    font-weight: 200;
-    h1 {
-      margin-bottom:24px;
-    }
-    .intro-box {
-      margin-top:9px;
-    }
-  }
-  .intro-footer {
-    font-size: 13px;
-    margin-top: 65px;
-    margin-bottom: 50px;
-    a {
-      text-decoration: none;
-      color: #2C3454;
-    }
-  }
+
   a:hover {
     opacity:.5;
   }
@@ -151,13 +146,23 @@ export default createGlobalStyle`
     }
   }
   .double-strong {
-    font-weight: 500;
+    font-family: 'Avenir',Georgia,sans-serif;
+    font-weight: 900;
   }
   .strong {
-    font-weight: 700;
+    font-family:'Avenir',Georgia,sans-serif;
   }
   i {
     font-style: italic;
+  }
+  .hidden {
+    display:none;
+  }
+  .banner-wrap  img.project-logo {
+    margin: 0 auto 40px auto;
+    display: block;
+    height: 28px;
+    width: auto;
   }
   .screeshot-wrapper {
     position: relative;
@@ -167,32 +172,48 @@ export default createGlobalStyle`
       z-index:1;
     }
   }
-  .screeshot-wrapper::after {
-    top: 5%;
-    left: 5%;
-    height: 90%;
-    width: 90%;
-    margin: auto;
-    content: " ";
-    display: block;
-    position: absolute;
-    right: auto;
-    box-shadow: 0px 6px 40px rgb(25 45 100 / 26%);
-    z-index: 0;
-    background: #000000;
+  .intro-wrapper {
+    width: 400px;
+    font-size: 25px;
+    line-height: 26px;
+    margin: 120px auto 180px;
+    font-weight: 200;
+    h1 {
+      margin-bottom:24px;
+    }
+    .intro-box {
+      margin-top:9px;
+    }
+    .me-into-p {
+      font-size: 25px;
+    line-height: 28px;
+    }
+  }
+  .intro-footer {
+    font-size: 13px;
+    margin-top: 65px;
+    margin-bottom: 50px;
+    a {
+      text-decoration: none;
+      color: #2C3454;
+    }
   }
   .about-wrapper {
     padding: 0px 80px;
     .about-desc {
       display: flex;
-      width: 90%;
-      margin: 100px auto 100px auto;
+      width: 100%;
+      padding: 100px;
     }
     .about-head {
-      font-weight: 600;
       padding: 18px 60px 10px 0px;
-      font-size: 26px;
-      line-height: 30px;
+      h3 {
+        font-size: 36px;
+        font-weight: 500;
+        padding-right: 50px;
+        line-height: 49px;
+        font-family: 'Avenir',Georgia,sans-serif;
+      }
       width: 30%;
     }
     .about-desc-left {
@@ -202,8 +223,8 @@ export default createGlobalStyle`
       width: 70%;
       p {
         margin:0px 0px 9px 0px;
-        font-size: 16px;
-        line-height: 20px;
+        font-size: 18px;
+        line-height: 30px;
       }
       .contact-row {
         font-weight: 600;
@@ -211,6 +232,8 @@ export default createGlobalStyle`
     }
   }
   .italic-text {
+    font-family: 'Avenir Book';
+    font-weight: normal;
     font-style: italic;
   }
   .space-block {
@@ -230,13 +253,29 @@ export default createGlobalStyle`
     width: 100%;
     overflow: hidden;
     border-radius: 20px;
+    position: relative;
+    margin-bottom: 40px;
+    .floating-text {
+      position: absolute;
+      color: #FFFFFF;
+      padding: 120px 100px;
+      h3 {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 49px;
+      }
+    }
     img {
       width:100%;
     }
   }
   .project-link {
     display: block;
-    margin-bottom: 50px;
+  }
+  .img-shadow {
+    box-shadow: 5px 5px 40px 0px rgb(107 120 188 / 21%);
+    border-radius: 10px;
+    overflow: hidden;
   }
   
 
@@ -250,17 +289,16 @@ export default createGlobalStyle`
       width: 100%;
       text-align: center;
       padding: 100px 100px 0px 100px;
-      color:#FFFFFF;
       position:relative;
       h1 {
-        font-size: 40px;
-        font-weight: 600;
+        font-size: 48px;
+        line-height: 66px;
+        font-weight: 500;
       }
       .project-desc {
-        margin-top: 24px;
-        opacity: .8;
-        line-height: 20px;
-        font-size: 15px;
+        margin-top: 10px;
+        line-height: 33px;
+        font-size: 24px;
       }
       .project-date {
         opacity: .8;
@@ -278,6 +316,9 @@ export default createGlobalStyle`
         }
       }
     }
+    h4 {
+      margin-bottom:40px;
+    }
     .blue-bg span {
       content:" ";
       display:block;
@@ -293,18 +334,21 @@ export default createGlobalStyle`
       display: flex;
       padding: 50px 100px;
     }
+    .resp-container > .img-col-1 {
+      margin:0px 100px;
+    }
     .resp-title {
       width: 30%;
-      font-size: 26px;
-      font-weight: 700;
+      font-size: 36px;
+      font-weight: 500;
       padding-right: 50px;
-      line-height: 30px;
-      font-family: 'proxima-nova-semi-bold',Georgia,sans-serif;
+      line-height: 49px;
+      font-family: 'Avenir',Georgia,sans-serif;
     }
     .resp-desc {
       width: 70%;
-      font-size: 16px;
-      line-height: 20px;
+      font-size: 18px;
+      line-height: 30px;
     }
     .step-container {
       background-color: #F7F8FA;
@@ -316,30 +360,39 @@ export default createGlobalStyle`
     .step-left {
       width: 30%;
       font-size: 26px;
-      font-weight: 700;
+      font-weight: 500;
       padding-right: 50px;
       line-height: 32px;
     }
+    .quote {
+      font-family: 'Avenir Book';
+      font-weight: normal;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 33px;
+    }
     .step-description {
       width: 70%;
-      font-size: 16px;
-      line-height: 20px;
+      font-size: 18px;
+      line-height: 30px;
       h5 {
+        font-family: 'Avenir';
         font-weight: 600;
-        font-size: 16px;
+        font-size: 18px;
         margin-bottom: 6px;
         margin-top: 24px;
       }
       h4 {
         font-weight: 800;
-        font-size: 18px;
+        font-size: 24px;
+        line-height: 40px;
         margin-top: 80px;
         margin-bottom: 40px;
       }
       p {
         margin-bottom: 20px;
-        font-size: 16px;
-        line-height: 20px;
+        font-size: 18px;
+        line-height: 30px;
       }
     }
     .col-2-img, .img-col-2 {
@@ -347,12 +400,25 @@ export default createGlobalStyle`
       justify-content: space-between;
       margin-top: 40px;
       margin-bottom: 50px;
-      img {
+      div{
+        img{
+          width: 100%
+        }
         max-width: 48%;
         display:block;
       }
     }
-    .step-description .extra-top {
+    .img-col-2.flex-image {
+      display: flex;
+      justify-content: space-between;
+      img {
+        width: 60%;
+      }
+      img:first-child {
+        width: 280px;
+      }
+    }
+    .extra-top {
       margin-top:120px;
     }
     .img-col-space {
@@ -402,15 +468,18 @@ export default createGlobalStyle`
       }
       .semii-bold-txt1 {
         font-size:14px;
-        font-size:16px;
+        font-size:18px;
+        line-height: 30px;
         font-weight:bold;
       }
       .bold-txt1 {
-        font-size:16px;
+        font-size:18px;
+        line-height: 30px;
         font-weight:bold;
       }
       .regular-txt1 {
-        font-size:16px;
+        font-size:18px;
+        line-height: 30px;
       }
       .grid-1 {
         background-color:#E0F1FF;
@@ -442,12 +511,16 @@ export default createGlobalStyle`
       display:flex;
       margin-bottom: 20px;
       margin-top: 40px;
-      align-items: center;
+      align-items: flex-end;
       .profile-round {
         display: block;
-        width: 150px;
-        border-radius: 20px 20px 20px 20px;
+        width: 93px;
+        border-radius: 10px 10px 10px 10px;
         overflow: hidden;
+        height: 173px;
+        img {
+          width: 100%;
+        }
       }
       .profile-desc {
         padding-left:26px;
@@ -493,9 +566,10 @@ export default createGlobalStyle`
     }
     h4 {
       margin-top: 40px;
-      margin-bottom:20px;
+      margin-bottom:40px;
       font-weight: 800;
       font-size: 18px;
+      line-height: 30px;
     }
   }
   .resp-container.project-footer{
@@ -509,8 +583,13 @@ export default createGlobalStyle`
   .double-strong {
     font-weight:bold;
   }
-  .screeshot-wrapper-2::after {
-    box-shadow: 0px 6px 20px rgb(25 45 100 / 26%);
+  .footer-note {
+    font-size: 12px;
+    text-align: center;
+    width: 35%;
+    opacity: .5;
+    margin: auto;
+    padding: 40px;
   }
   @media only screen and (max-width: 1000px) {
     .intro-wrapper {
@@ -608,14 +687,16 @@ export default createGlobalStyle`
         .profile-round {
           display: block;
           width: 150px;
-          border-radius: 20px 20px 20px 20px;
+          border-radius: 20px;
           overflow: hidden;
-          margin: 0 auto;
+          margin: 0px;
+          height: 240px;
           img {
             height: auto;
             overflow: hidden;
-            max-height: 100%;
-            width: 100%;
+            max-height: auto;
+            width: 100;
+            max-width: 100%;
           }
         }
         .profile-desc {
@@ -633,6 +714,14 @@ export default createGlobalStyle`
     .project-wrapper .img-col-1 {
       margin-top: 12px;
       margin-bottom: 12px;
+    }
+    .footer-note {
+      width: 100%;
+      padding: 0px 10px;
+      float: left;
+    }
+    .banner-wrap  .floating-text {
+      padding:24px 12px;
     }
     .resp-container.project-footer {
       padding: 0px 15px;

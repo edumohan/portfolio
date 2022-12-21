@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-        width: 90%;
-        margin: 100px auto 100px auto;
+        width: 100%;
+        padding:50px 100px;
         .resume-head {
             letter-spacing: 0px;
             color: #4EBEA5;
@@ -18,10 +18,11 @@ export const Container = styled.div`
             margin-bottom: 50px;
         }
         h3 {
+            font-family: 'Avenir Book';
             font-weight: 600;
             padding:0;
-            font-size: 26px;
-            line-height: 30px;
+            font-size: 36px;
+            line-height: 49px;
         }
         .date-row {
             color: #9296A4;
@@ -32,22 +33,23 @@ export const Container = styled.div`
             margin-bottom: 20px;
         }
         .left-column {
-            width: 34%;
+            width: 30%;
             padding-right: 95px;
         }
         .right-column {
             word-break: break-word;
-            width: 80%;
+            width: 70%;
         }
         .exp-head-row {
             display: flex;
+            align-items: baseline;
             label {
                 display: inline-block;
                 padding-left: 8px;
             }
         }
         h4 {
-            font-weight: 700;
+            font-weight: 100;
         }
         p {
             margin-bottom: 10px;
@@ -81,7 +83,7 @@ export const Container = styled.div`
             img {
                 width: 100%;
                 display: block;
-                margin-bottom: 22px;
+                margin-bottom: 25px;
             }
         }
         .thannk-you h3 {
@@ -94,11 +96,27 @@ export const Container = styled.div`
             margin:24px 0px;
             width: 100%;
             display:table;
+            padding: 0px;
             .work-experience {
                 display:block;
                 font-size: 12px;
                 float: left;
                 width: 100%;
+            }
+            h4{
+                font-size: 20px;
+                line-height: 24px;
+                margin-bottom: 8px;
+                
+            }
+            p.date-row{
+                font-size: 12px;
+            }
+            .exp-head-row {
+                display: block;
+                label{
+                    padding-left: 0px;
+                }
             }
             .left-column {
                 width: 100%;

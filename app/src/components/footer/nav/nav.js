@@ -1,26 +1,31 @@
 import React from 'react';
-import { Link } from 'gatsby';
 import { Container } from './nav.css';
-
-const Nav = () => (
-  <Container>
-    <ul>
+import { useStaticQuery, graphql, Link } from "gatsby";
+const Nav = () => {
+  const data = useStaticQuery(graphql`
+    query NonPageFooterQuery {
+      projectsJson {
+        projects {
+          title
+          link
+          id
+        }
+      }
+    }
+  `)
+  return (<Container>
+    <ul className="project-links">
       <li>
         <Link
           to="/"
           >Home</Link>
       </li>
-      <li>
-        <Link to="/project/?id=qlCaseStudy" >HackerEarth</Link>
-      </li>
-      <li>
-        <Link to="/project/?id=aldenCaseStudy">Alden</Link>
-      </li>
+      {
+        data.projectsJson.projects.map((item,i)=> {
+          return (<li key={i} ><Link to={`/projects/${item.id}`}>{item.title}</Link></li>)
+        })
+      }
     </ul>
-    <div className="more-questions">
-      <p>More questions?</p>
-      <p>Contact Me</p>
-    </div>
     <ul className="foot-nav">
       <li>
         <Link to="/about">About me</Link>
@@ -29,7 +34,7 @@ const Nav = () => (
         <a href='/edu_mohan_resume_2020.pdf' target='_blank' >View resume</a>
       </li>
     </ul>
-  </Container>
-);
+  </Container>)
+};
 
 export default Nav;
