@@ -45,7 +45,9 @@ const ProjectsGrid = ({ items }) => {
       </Link>)
     })
   }
-  <Link className="project-link" to={`/about`}>
+  {
+    /*
+    <Link className="project-link" to={`/about`}>
         <div id="projectContainer" className="img-shadow project-item">
           <div className="projecy-image">
           </div>
@@ -55,6 +57,8 @@ const ProjectsGrid = ({ items }) => {
           </div>
         </div>
     </Link>
+    */
+  }
   </Container>)
 };
 

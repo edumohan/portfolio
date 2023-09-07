@@ -1,6 +1,17 @@
 {
   "title": "Projects",
-  "projects":[{
+  "projects":[
+    {
+      "title": "Integrations",
+      "desc": "intregations description",
+      "date": "2017",
+      "image": "/images/projects/3_bokio.jpg",
+      "link":"integrations",
+      "id":"integrations",
+      "bgColor":"#FBF074",
+      "color":"#2C3454"
+  },
+    {
       "title": "HackerEarth",
       "desc": "Redesigning the flow for managing and modifying a test question listing for a recruiter.",
       "date": "2019 May - 2020 Jan",
