@@ -26,20 +26,29 @@
         </div>
         <div class="resp-desc">
             <p>
-                In India, the information technology industry has shown a steadily increasing trend since 1998. It never had a downfall and is still in its growth path even today. This also led to an increased number of developers being hired. However, the selection of a candidate for being hired into a software building company was mostly through campus hires and referrals.
+                The recent wave of digitisation has created the foundation for a lot of tech startups and small size companies across Europe. The needs of these companies are very different from the enterprises and the solutions they require are also different. Sometimes, enterprise solutions employ dedicated staff just to implement and run a tool. However, the small and medium market companies need tools that can be up and running within a couple of weeks and need no extra resources to run them. 
             </p>
             <p>
-                This has not been in favor of the employer because they might miss out on the right candidate as well as the candidate because he/she would have missed a good opportunity just because he was not from the tier 1 colleges. This is where HackerEarth intervenes to make both ends meet.
+                The pandemic caused contrasting fortunes across the software industry. While some of them were discarded for cost optimisation, others  in digitising operations that were previously done in person. Personio plays such a role in the market.
             </p>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">
-            Role of <br/> HackerEarth
+            Role of <br/> Personio
         </div>
         <div class="resp-desc">
             <p>
-                HackerEarth provides various ways for the automated technical assessment of a candidate. There is a community front where an aspiring developer can learn and improve and there is a product that helps a recruiter technically assess a candidate. One of the main ways to do this is by creating a test and sending it to the candidate. Though HackerEarth was leading the Indian market by quite a margin and was one of the top three, the test creation was something a lot of users found to be complex. Let me take you through my journey of how I improved the recruiter’s experience by redesigned the test creation flow.
+                Personio is the People Operating System for small and medium-sized companies with 10 to 2,000 employees. Personio’s mission is to make HR processes as efficient and effective as possible so HR can focus on what matters most: people. Personio does that by offering all-in-one HR software that includes human resources management, recruiting, talent management and payroll.
+            </p>
+            <p> 
+               Personio is already impacting more than 10000 users daily across Europe. One of the biggest value propositions for 2022 is to increase this impact using people-workflow-automations. Helping users to be more efficient & infallible by connecting with all the tools that they use and act as the single source of truth for employee data.
+            </p>
+            <p>
+               Personio now has more than 120 integrations with various applications. However, setting up some of these integrations isn’t an easy task, especially if the user isn’t a person with a technical background. This case study is about how I improved the life of an HR admin to discover and connect various integrations & maintain them easily and seamlessly.
+            </p>
+            <p> 
+                There are two types of integrations. 1P & 3P
             </p>
         </div>
     </div>
@@ -49,309 +58,172 @@
         </div>
         <div class="resp-desc">
             <p>
-                There are various ways to create a test. A test that is based on a job role, based on a job description, or based on skill. It is also possible for a user to create a test entirely from scratch. All tests have a test overview area where the settings of the tests could be changed and also a list of questions. How the questions are populated in that question list depends on how the test was created. Once the user reaches this part the user can tailor-make it exactly how he/she wants it. My role was to understand the user’s pain points and redesign the question listing for the test.
+                 I joined as the Sr.Product designer for the integration tribe in Personio. This is one of the two tribes that contribute to the People-Workflow-Automation vision. Workflows being the other tribe. The integration team constitutes 3 technical & one strategic partner management team. I support two out of the three teams and work closely in collaboration with the third team as well as the Workflow tribe.
             </p>
             <p>
-                As a product designer I had to do user research, competition analysis, create user flows, brainstorming with stakeholders and engineers involved to understand product architecture and impact areas. I also created high-fidelity iterations and development-ready designs. While the project was in development, I have worked closely with the front end team providing support and once development was completed, I was involved with the QA team for auditing and ensuring the intended experiences were delivered
+                 I initiated and led the research for creating a tech-user persona, along with the UXR and PMs. I was involved in everything from  the recruitment of users to analysis of results to delivery & end to end execution. I designed the integration hub - a central place for all things integration.
             </p>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">
-            How did I <br/>go about it?
+            The first question: <br/>Who is the user?  
         </div>
         <div class="resp-desc">
             <p>
-                The project was a major redesign, hence it was necessary to understand the current product and its users. Not only did this open up a large spectrum of design opportunities but also threw light on areas that can get impacted by the project.
+                 When I was hired in Q2 of 2022, Personio’s integration team was roughly about 4 years old. Personio, being an HR tool, was primarily built considering  an HR admin persona, supported by a supervisor and employee persona. For setting up and maintaining integration with other tools, an HR admin user almost always has to depend on an IT admin user. In spite of the team existing for 4 years, we were operating based on qualitative information acquired by various members of the team. We did not have a clear documented persona of an IT admin user, and that was exactly where I started my journey.
+            </p>
+            <p>
+                 There was a marketing persona for an IT admin but on further investigation, that proved to be not based on a lot of research. So i led a initiative along with UXR and PMs to document this.
             </p>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">
-            Step 1:Understanding <br/>the user
+            Recruitment <br/> challenges
         </div>
         <div class="resp-desc">
             <p>
-                The product is used for technical hiring. This product leverages the core functionality of the platform to do a technical assessment. The primary user is a Talent Acquisition   Specialist(TA)
+                 Being the “new kid on the block”, I had little credibility and people didn’t have faith in the radical changes I proposed. As a result of this and some changes in the company's plans for H2 2022, no budget was allotted for this research. We (myself and the few people who believed in me) were asked to “make the best of what we have”. This added to one of the many challenges to recruitment. 
+            <p> 
+                 <h5>
+                 Here goes the whole list
+                 </h5>
+                 No budget
+                 <br/>Legally a Personio employee is not allowed to contact any customer unless they explicitly allow us to do so
+                 <br/>UXR was concerned of “over-using” the existing research pool.
             </p>
             <p>
-                The TA’s primary responsibility is to source candidates to meet their hiring goals. They use different tools and databases to find candidates. Once potential candidates are identified they need to assess them on skills before they invest time in scheduling an onsite interview. They create a test with the help of a hiring manager. Once the test is created, it’s sent out to candidates.
+                 <h5>
+                 We regrouped, brainstormed for methods:
+                 </h5>
+                 Raise a request in this channel. In-app notifications. This hands down generated the most number of user sign ups. 
+                 <br/> Post to the Community page + respond to specific posts. The community managers were super helpful in improving visibility of these posts. We tapped into both the German and English-speaking communities.
+                 <br/>Announcement/banner on Dev Hub home page
+                 <br/>UXR participant pool
+                 <br/>Check with Customer Experience team, growth managers, customer success managers for referrals
+                 <br/>Review EnjoyHQ tickets for leads
+                 <br/>Check the Customer Advisory Board for referrals
+                 <br/>Reach out via LinkedIn, Personio social media channels, Personio developer forums
+                 <br/>Participate in Customer Advisory Board workshop to show initial prototypes and recruit more participants
             </p>
             <p>
-                The system has a role-based access model. This enables different users to perform action and access information entitled to their role.
+                 We managed to speak to close to 30 users.
             </p>
-            <br/>
-            <br/>
-            <h4>
-                Interview protocol
-            </h4>
-            <h5>
-                Objective
-            </h5>
+        </div> 
+    </div>
+    <div class="resp-row">
+        <div class="resp-title">
+            Research methods
+        </div>
+        <div class="step-description">
             <p>
-                To understand how users are currently recruiting a candidate for a technical role and the methods they use to do it efficiently
+                 Around this same time, I was reading about the Jobs to be done playbook by Jim Kalbach. So I was keen on putting this methodology into practice immediately. This, however, played to our advantage.
             </p>
-            <h5>
-                Expected Outcome
-            </h5>
             <p>
-                To define the user profile, involved in the hiring of a technical role. 
+                 Though we started off with an assumption that it's an IT admin that takes care of things on the tech side, we soon realised that this wasn’t the case. This purely depended on the company size, the product sector they were in and some other factors. While some companies had a dedicated IT team, others had the HR admin user wearing the hat of an IT admin to sort things out. 
             </p>
-            <h5>
-                Ice breakers/intro (1-2mins)
-            </h5>
-            <p class="no-margin ">
-                What does your typical weekday look like?
-            </p>
-            <p class="no-margin ">
-                Tell me about your role at your company?
-            </p>
-            <br/>
-            <h5>
-                Topic/Goal specific questions (15-20mins)
-            </h5>
-            <p class="no-margin ">
-                How do you go about the recruitment process?
-            </p>
-            <p class="no-margin ">
-                what is the general timeline for this process?
-            </p>
-            <p class="no-margin ">
-                What is the hardest part of this task?
-            </p>
-            <p class="no-margin ">
-                If yes, What type of work arounds have you created to help you with this?
-            </p>
-            <p class="no-margin ">
-                How does this task impact other areas of your work?
-            </p>
-            <p class="no-margin ">
-                What products or tools have you tried out?
-            </p>
-            <p class="no-margin ">
-                What do you like or dislike about these other products or tools?
-            </p>
-            <br/>
-            <br/>
-            <h4>
-                Interview Results
-            </h4>
-            <div class="col-2-img">
-                <div class="img-shadow"> 
-                    <img src="/images/qlStudy/interview001.jpg" alt="interview Image 1"/> 
-                </div>
-                <div class="img-shadow"> 
-                    <img src="/images/qlStudy/interview002.jpg" alt="interview Image 2"/>
-                </div>
-            </div>
-            <div>
-                <h4 class="extra-top">
-                    Outcome 1 : User Persona
-                </h4>
-                <div class="profile-card">
-                    <div class="profile-round">
-                        <img src="/images/qlStudy/ankita_dp.jpg"/>
-                    </div>
-                    <div class="profile-desc">
-                        <p class="job-title semi-bold-txt2" >
-                            Ankita Jain
-                        </p>
-                        <p class="job-title">
-                            Talent Acquisition Specialist
-                        </p>
-                    </div>
-                </div> 
-                <div class="para-section">
-                            <p>
-                                Ankita is 32 years old. She is an MBA graduate and has 7+ years of experience in hiring. She is a specialist in technical hiring. Ankita is well versed with Microsoft office. Her day usually starts with hunting down talented candidates and finding the right fit for the required role. She does most of the groundwork on various job search platforms like Linkedin, Naukri, etc. She knows the right keywords to search for a particular role, courtesy of her experience in the industry 
-                            </p>
-                            <p>
-                                Ankita also is familiar with different application tracking software that are used in hiring. She has good communication skills and maintains a good relationship with the candidates and employees.
-                            </p>
-                        </div>
-            </div>   
-            <h4 class="extra-top">
-                Outcome 2: Talent acquisition lifecycle
-            </h4>
             <p>
-                As a part of understanding the Talent acquisition partner’s association with the product, the lifecycle of hiring a candidate was also studied.
+                 It didn’t matter what their roles were, we focused on their core jobs to be done in space and how we could improve them.
             </p>
-            <div class="img-col-1 img-shadow">
-                <img src="/images/qlStudy/PNG/TAlifecycle@4x.png" alt="talent acquisition lifecycle diagram"/>
-            </div>
-            <h4 class="extra-top">
-                Outcome 3: Test creation lifecycle
-            </h4>
-            <p>
-                Creating a test, inviting candidates to participate in it, and assessing their skills is the part where HackerEarth can contribute to shortlisting candidates. 
-            </p>
-            <div class="img-col-1 img-shadow">
-                <img src="/images/qlStudy/PNG/TAlifecycle%404x.png" alt="Test creation lifecycle diagram"/>
+        </div>
+    </div>
+    <div class="resp-row">
+        <div class="resp-title">
+            Research Stages
+        </div>
+        <div class="step-description">
+            <div class="desc-row">
+                <p>
+                     Working in collaboration, we came up with an appropriate interview script to have a foundation about the tech user’s Jobs to be done and also more related to their activities w.r.t integrations
+                     <br/>The data was first categorised by themes
+                     <br/>Frequency of occurrence for each themes across various market sizes
+                </p>
+                <p>
+                 To create more user empathy and a feeling of ownership, we included the engineers to be part of the research interviews and periodically shared progress with the team. Further, to make all the research available across the company (100+ design team members), we uploaded them to Condens and tagged them against appropirate themes.
+                </p>
             </div>
         </div>
     </div>
-        <div class="resp-row">
-            <div class="resp-title">
-                Step 2: <br/> People who <br/> created it
-            </div>
-            <div class="step-description">
+    <div class="resp-row">
+        <div class="resp-title">
+            Problems </br>Identified
+        </div>
+        <div class="step-description">
                 <div class="desc-row">
-                    <p>
-                        An open-ended discussion with Engineering, QA, Product manager, and sales helped me gain more insights on why certain things were built the way it is right now
-                    </p>
-                </div>
-            <div class="img-grid-4">
-                <div class="col-2-img">
-                    <div class="img-shadow"> 
-                        <img  src="/images/qlStudy/interview003.jpg" alt="interview chart diagram number 6"/> 
-                    </div>
-                    <div class="img-shadow"> 
-                        <img  src="/images/qlStudy/interview004.jpg" alt="interview Image 4"/> 
-                    </div>
-                </div>
-                <div class="col-2-img">
-                    <div class="img-shadow"> 
-                        <img src="/images/qlStudy/interview005.jpg" alt="interview Image 5"/> 
-                    </div>
-                    <div class="img-shadow"> 
-                        <img src="/images/qlStudy/interview006.jpg" alt="interview Image 6"/> 
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="resp-row">
-        <div class="resp-title">
-            Step 3:<br/> First hand <br/>experience
-        </div>
-        <div class="step-description">
-            <p>
-                I used the product for catering to various scenarios to know if there are any gaps or constraints. I tried to map the structure out for the entire product even though my job was only a small flow. Knowledge of the IA, layout of various components, features, and more than anything, its setbacks and constraints were essential.
-                <br/>
-                <br/>
-                 As it is a redesign project, a perfect idea of what the boundaries were, was essential to start pushing them.
-            </p>
-        </div>
-    </div>
-    <div class="img-col-1 img-shadow">
-        <img src="/images/qlStudy/PNG/flowchart@4x.png"  alt="interview Image First hand experience"/>
-    </div>
-    <div class="resp-row">
-        <div class="resp-title">
-            What we <br/>Found out
-        </div>
-        <div class="step-description">
-            <div class="desc-row">
+                <h4 style="margin-bottom:6px"> 1. Disconnected navigation</h4>
                 <p>
-                    The following were comments which the CSMs and sales team frequently heard from the users and conveyed to the team. On a deeper analysis of these lines, some interesting questions also arose!
+                     Although we have 120+ integrations in the marketplace, the current integration activation process introduces multiple challenges that impede a smooth and user-friendly experience for integrations within the in-app Marketplace. The user has to navigate from the marketplace to the settings, fetch some information and then to the marketplace to complete the activation.
+                </p>
+                 <h4>
+                     2. Need monitoring capabilities for out-of-the-box integrations.
+                </h4>
+                <p>
+                     Once setup, the integration is a dark-box. Usually it works like clockwork. They only know that something is not working after it is too late.
+                </p>
+                <h4>
+                     3. API Credential Management + Security
+                </h4>
+                <p>
+                     For a custom integration, the users need a set of API credentials from Personio. Only HR has access to the creation process, but IT is the one creating the integration. Providing only the right set of permissions via API is needed for ensuring data security. Right now, control over this is very limited.
+                </p>
+                <h4>
+                     4. Non-flexible integrations
+                </h4>
+                <p>
+                     All of Personio’s integrations are hard coded. The user cannot customise any of these to fit into their specific use cases. Either they are forced to use them as it is or need to create a custom integration themselves.
+                </p>
+                <h4>
+                     5. Using Out-of-the-box vs Building custom integrations
+                </h4>
+                <p>
+                     Most companies don't have resources to build custom integrations. Exception: tech-savvy, larger companies that are in the software business themselves. These companies might even have dedicated teams who integrate the system landscape.
+                </p>
+                <h4>
+                     6. Users are in favour of testing custom integration.
+                </h4>
+                <p>
+                     Having a Sandbox before they can execute an integration before they actually expose it to the real data is preferred by almost all the users.
+                </p>
+                <h4>
+                     7. Tech User Main Jobs
+                </h4>
+                <p>
+                     Automating manual tasks and processes is part of many IT people's job and is on the top of their minds. Manual processes are inefficient, time-consuming and error-prone. Users tend to use automation platforms in the absence of direct integration.
                 </p>
             </div>
-            <div class="img-col-1 img-shadow">
-                <img src="/images/qlStudy/PNG/empathymap@4x.png" alt="empathy diagram"/>
-            </div>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">
-            To the <br/>Drawing <br/>Board
+             Digging data
         </div>
         <div class="step-description">
             <div class="desc-row">
                 <p>
-                    Different layouts were tried out for providing all the necessary information in the right format
-                </p>
-                <div class="col-2-img">
-                    <div class="img-shadow"> 
-                        <img src="/images/qlStudy/wireframe2.jpg" alt="wireframe 1 from notebook"/> 
-                    </div>
-                    <div class="img-shadow"> 
-                        <img src="/images/qlStudy/wireframe1.jpg" alt="wireframe 2 from notebook"/>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="resp-row">
-        <div class="resp-title">
-            One <br/>Question <br/>at a time
-        </div>
-        <div class="step-description">
-            <div class="desc-row">
-                <p>
-                    Being an information layout challenge, the wire-framing steps were limited to paper and whiteboard. Most of the explorations for the question lists were done with UI.
+                     We could get a sense of the user’s feelings and the qualitative feedback from the insights. To put a solid case forward for a redesign, we needed to support the feedback with numbers. So we dug deeper into the data. We used Pendo for our in-app adoption analytics. Two things were clear from the data: there was a significant drop-off during the activation process.Activating an integration took over 7 minutes to complete. 
                 </p>
                 <div class="img-col-1 img-shadow space-top-40 screeshot-wrapper">
-                    <img src="/images/qlStudy/q1.png" alt="wireframe Image 1"/>
+                    <img src="/images/integrations/Artboard.jpg" alt="wireframe Image 1"/>
                 </div>
-                <div class="img-col-1 img-shadow screeshot-wrapper space-top-40 screeshot-wrapper">
-                    <img src="/images/qlStudy/q2.png" alt="wireframe Image 2"/>
-                </div>
-                <p class="space-top-40">
-                    To improve readability on a particular question and to provide more clarity on the details of the question I explored moving the question from a list to a card format.
+                <p>
+                    These findings collectively validate the presence of an issue within the activation process.
                 </p>
-                <div class="img-col-1 img-shadow  screeshot-wrapper space-top-40 screeshot-wrapper">
-                    <img src="/images/qlStudy/q3.png" alt="wireframe Image 2"/>
-                </div>
-                <p class="space-top-40">
-                    I applied the Gestalts principle of common religion and proximity. To do this, instead of grouping I changed the background colour to grey. This added more contrast between the cards and the background, which helped the user perceive each card as separate and all the cards that were closer to each other. This was well received by the users and the stakeholders. Different layouts were tried and tested.
-                </p>
-                <div class="img-col-1 img-shadow  screeshot-wrapper space-top-40 screeshot-wrapper">
-                    <img src="/images/qlStudy/q4.png" alt="wireframe Image 2"/>
-                </div>
-                <div class="img-col-1 img-shadow  screeshot-wrapper space-top-40 screeshot-wrapper">
-                    <img src="/images/qlStudy/q5.png" alt="wireframe Image 2"/>
-                </div>
             </div>
         </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">
-            More cards <br/> To play with
+            Breaking down <br/> the insights
         </div>
         <div class="step-description">
             <p>
-                The following information was identified as the essential information to identify a question and was arranged on a card.
+                 Creating a clear problem statement for every insight and consequence that we gathered was the first step towards my ideation process. I was also exploring options to measure the impact of the design solutions that we could come up with.  
             </p>
         </div>
     </div>
     <div class="img-col-1 space-top-40">
         <img src="/images/qlStudy/PNG/Artboard1@4x.png" alt="wireframe Image 2"/>
-    </div>
-    <div class="resp-row">
-        <div class="resp-title">
-        </div>
-        <div class="step-description">
-            <p>
-                Different designs for the question card were explored. The most preferred item was picked from various user calls and stakeholder meetings.
-            </p>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card_1.jpg"  alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card2.jpg"  alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card3.jpg"  alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card4.jpg"  alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card5.jpg"  alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card6.jpg"  alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card7.jpg" alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card8.jpg" alt="wireframe Image 2"/>
-            </div>
-            <div class="img-col-1 img-shadow  screeshot-wrapper screeshot-wrapper-2">
-                <img src="/images/qlStudy/card9.jpg" alt="wireframe Image 2"/>
-            </div>
-        </div>
     </div>
     <div class="resp-row">
         <div class="resp-title">
