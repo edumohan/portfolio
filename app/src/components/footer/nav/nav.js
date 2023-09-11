@@ -22,7 +22,7 @@ const Nav = () => {
       </li>
       {
         data.projectsJson.projects.map((item,i)=> {
-          return (<li key={i} ><Link to={`/projects/${item.id}`}>{item.title}</Link></li>)
+          return (<li key={i} ><Link to={`/projects/${item.link}`}>{item.title}</Link></li>)
         })
       }
     </ul>
