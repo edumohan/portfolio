@@ -6,8 +6,8 @@
       "desc": "intregations description",
       "date": "2017",
       "image": "/images/projects/3_bokio.jpg",
-      "link":"integrations",
-      "id":"integrations",
+      "link":"private/integrations",
+      "id":"integrationsPrivate",
       "bgColor":"#FBF074",
       "color":"#2C3454"
   },
