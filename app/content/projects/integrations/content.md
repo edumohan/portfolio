@@ -326,7 +326,7 @@
 <div class="resp-container">
     <div class="resp-row">
         <div class="resp-title">
-            Briniging<br/> it to life
+            Bringing<br/> it to life
         </div>
         <div class="step-description">
             The marketplace in navigation will be replaced by the “Integration hub”. This will have a place for users to discover new integrations and activate them, view the details of all the connected integrations and update them. It will also provide easy access to the Personio developer portal.
