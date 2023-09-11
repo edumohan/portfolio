@@ -36,7 +36,7 @@ const Nav = () => {
           <div className="projects-list">
             {
               data.projectsJson.projects.map((item,i)=> {
-                return <Link key={i} to={`/projects/${item.id}`}>{item.title}</Link>
+                return <Link key={i} to={`/projects/${item.link}`}>{item.title}</Link>
               })
             }
           </div>

@@ -2,9 +2,9 @@
   "title": "Projects",
   "projects":[
     {
-      "title": "Integrations",
-      "desc": "intregations description",
-      "date": "2017",
+      "title": "Personio",
+      "desc": "Designing a centralised framework for setting up and managing integrations",
+      "date": "2022 May - Present",
       "image": "/images/projects/3_bokio.jpg",
       "link":"private/integrations",
       "id":"integrationsPrivate",
@@ -23,7 +23,7 @@
   },
   {
     "title": "[24]7.ai",
-    "desc": "System design for a chatbot builder",
+    "desc": "System and architecture design for a configurable chatbot builder",
     "date": "2018 Dec - 2019 Apr",
     "image": "/images/projects/2_247.jpg",
     "link":"botbuilderCaseStudy",

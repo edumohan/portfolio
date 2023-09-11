@@ -1,7 +1,7 @@
 
 <div class="banner-wrap">
     <div class="blue-bg">
-        <img class="project-logo" style="height:40px" src="/images/qlStudy/logo.png"/>
+        <img class="project-logo" style="height:40px;border-radius:8px" src="/images/integrations/logo.png"/>
         <h1>
              Central Integration Hub 
         </h1>
@@ -13,7 +13,7 @@
              Personio  2022 May - Present
         </p>
         <div class="overflow-image img-shadow">
-             <img src="/images/qlStudy/QLcasestudyhome.jpg" alt="Making a test easy for its creator"/>
+             <img src="/images/integrations/Home.jpg" alt="Making a test easy for its creator"/>
              <span style="background-color:#FFFFFF"></span>
         </div>
     </div>
@@ -51,6 +51,21 @@
             <p> 
                  There are two types of integrations. 1P & 3P
             </p>
+            <div style="display:flex">
+              <div class="role-box grey-box">
+                <div class="head">1P</div>
+                <p>
+                  These are integration built by Personio, for a first party integration we have control over the activation process
+                </p>
+              </div>
+              <div class="role-box blue-box">
+                  <div class="head">3P</div>
+                  <p>
+                    These are integration built by the customers where Personio only provides the data via a controlled API access
+                  </p>
+                </div>
+              </div>
+            </div>
         </div>
     </div>
 </div>
@@ -96,21 +111,21 @@
             Recruitment <br/> challenges
         </div>
         <div class="resp-desc">
-            Being the “new kid on the block”, I had little credibility and people didn’t have faith in the radical changes I proposed. As a result of this and some changes in the company's plans for H2 2022, no budget was allotted for this research. We (myself and the few people who believed in me) were asked to “make the best of what we have”. This added to one of the many challenges to recruitment. 
-            <p> 
-                <h5>
-                    Here goes the whole list
-                </h5>
-                <ul style="list-style-type: disc">
-                    <li>No budget</li>
-                    <li>Legally a Personio employee is not allowed to contact any customer unless they explicitly allow us to do so</li>
-                    <li>UXR was concerned of “over-using” the existing research pool.</li>
-                </ul>
-            </p>
             <p>
-                <h5>
-                    We regrouped, brainstormed for methods:
-                </h5>
+                 Being the “new kid on the block”, I had little credibility and people didn’t have faith in the radical changes I proposed. As a result of this and some changes in the company's plans for H2 2022, no budget was allotted for this research. We (myself and the few people who believed in me) were asked to “make the best of what we have”. This added to one of the many challenges to recruitment.
+            </p>
+           
+            <h5> Here goes the whole list </h5> 
+            <ul style="list-style-type: disc; padding-left:20px">
+                <li>No budget</li>
+                <li>Legally a Personio employee is not allowed to contact any customer unless they explicitly allow us to do so</li>
+                <li>UXR was concerned of “over-using” the existing research pool.</li>
+            </ul>
+            <br/>
+            <h5>
+                We regrouped, brainstormed for recruitment methods:
+            </h5>
+            <p>
                 1. Raise a request in this channel. In-app notifications. This hands down generated the most number of user sign ups. 
                 <br/> 2. Post to the Community page + respond to specific posts. The community managers were super helpful in improving visibility of these posts. We tapped into both the German and English-speaking communities.
                 <br/>3. Announcement/banner on Dev Hub home page
@@ -142,9 +157,10 @@
                 </div>
                 <div class="step-description">
                     Though we started off with an assumption that it's an IT admin that takes care of things on the tech side, we soon realised that this wasn’t the case. This purely depended on the company size, the product sector they were in and some other factors. While some companies had a dedicated IT team, others had the HR admin user wearing the hat of an IT admin to sort things out. 
-                    <div class="italic-text space-top-20">
+                    <p class="italic-text space-top-20">
                         We renamed the persona from IT admin to a “Tech user”
-                    </div>
+                    </p>
+                    <br/>
                     It didn’t matter what their roles were, we focused on their core jobs to be done in space and how we could improve them.
                 </div>
             </div>
@@ -166,7 +182,7 @@
                     </ul>
                 </p>
             <div class="img-col-1 space-top-40 screeshot-wrapper">
-                <img src="/images/integrations/Interview_screens.png" alt="user inteview screenshots"/> 
+                <img style="filter: blur(2px);" src="/images/integrations/Interview_screens.png" alt="user inteview screenshots"/> 
             </div>
             <div class="img-col-1 space-top-40 screeshot-wrapper">
                 <img src="/images/integrations/Research_analysis.png" alt="analysis miro board"/> 
@@ -174,6 +190,88 @@
                 <p>
                     To create more user empathy and a feeling of ownership, we included the engineers to be part of the research interviews and periodically shared progress with the team. Further, to make all the research available across the company (100+ design team members), we uploaded them to Condens and tagged them against appropirate themes.
                 </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="resp-container">
+    <div class="resp-row">
+        <div class="resp-title">User Persona</div>
+            <div class="resp-desc ">
+              <div class="flex-user">
+                <div class="user-persona">
+                  <div class="profile-pic">
+                    <img src="/images/integrations/Sara.png" >
+                    <h4 style="margin: 0;text-align: center;">
+                    Sara
+                    </h4>
+                    <div class="profession" style="text-align: center;">
+                      Non- Tech industry
+                    </div>
+                  </div>
+                </div>
+                <div class="right-desc">
+                  <div class="company-head">Company size</div>
+                  <ul style="list-style-type: disc; padding-left:20px">
+                    <li>Small (1-199 employee), non-tech industry</li>
+                    <li>HR team or 1-person IT team</li>
+                  </ul>
+                  <br/>
+                  <div class="company-head">Jobs</div>
+                  <ul style="list-style-type: disc; padding-left:20px">
+                    <li>Ensure effective on/off-boarding of new employees. </li>
+                    <li>Set up integrations required by my team.</li>
+                  </ul>
+                  <br/>
+                  <div class="company-head">Needs</div>
+                  <ul style="list-style-type: disc; padding-left:20px">
+                    <li>Easy to access/use API documentation. </li>
+                    <li>Out-of-the-box integration solutions. </li>
+                    <li>Access to technical support during implementation and major updates or in the case of a major issue.</li>
+                  </ul>
+                </div>
+              </div>
+              <br/>
+              <br/>
+              <br/>
+              <div class="flex-user">
+                <div class="user-persona">
+                  <div class="profile-pic">
+                    <img src="/images/integrations/Martin.png"/>
+                    <h4 style="margin: 0;text-align: center;">
+                    Martin
+                    </h4>
+                    <div class="profession" style="text-align: center;">
+                      Tech industry
+                    </div>
+                  </div>
+                </div>
+                <div class="right-desc">
+                  <div class="company-head">Company size</div>
+                  <ul style="list-style-type: disc; padding-left:20px">
+                    <li>Mid-size company (200-500 employees), tech industry (e.g., software company) or public company or fintech</li>
+                    <li>Small IT team responsible for IT infrastructure and devops</li>
+                  </ul>
+                  <br/>
+                  <div class="company-head">Jobs</div>
+                  <ul style="list-style-type: disc; padding-left:20px">
+                    <li>Automate employee on/off-boarding workflows, minimising manual labor and human error and thereby maximizing efficiency. </li>
+                    <li>Seek out integrations to automate additional workflows.</li>
+                    <li>Consult on SaaS purchase decisions, paying special attention to data privacy & security.</li>
+                    <li>Test out-of-the-box integrations and build & test custom integrations. </li>
+                    <li>Quickly & effectively address any major issues with tech integrations.</li>
+                  </ul>
+                  <br/>
+                  <div class="company-head">Needs</div>
+                  <ul style="list-style-type: disc; padding-left:20px">
+                    <li>Clarity on data residency, directionality, security. </li>
+                    <li>Sandbox to test integrations with anonymised / dummy employee data. </li>
+                    <li>Ad hoc direct access to technical support for major issues. </li>
+                    <li>Company-level logs for integrations monitoring.</li>
+                    <li>Satisfying process for reporting technical requests & errors to Personio.</li>
+                  </ul>
+                </div>
+              <div>
             </div>
         </div>
     </div>
@@ -271,6 +369,25 @@
         </div>
         <div class="resp-desc">
             <h4 style="margin-bottom:6px">Phase 1</h4>
+            <br/>
+            <div style="display:flex">
+              <div class="role-box green-box">
+                <p>
+                  How might we make a smooth and streamlined flow for setting up an integration? 
+                </p>
+              </div>
+              <div class="role-box green-box">
+                <p>
+                  How might we reduce manual processes in activating an integration
+                </p>
+              </div>
+              <div class="role-box green-box">
+                <p>
+                  How might we reduce security risks of data leaks with reusing API credentials
+                </p>
+              </div>
+            </div>
+            <br/>
             <div  class="desc-row">
                 <p>
                     The chances of drop off are increased when the users have to navigate out of the activation process to different screens for the same product and fetch information.
@@ -289,29 +406,46 @@
             </div>
             <div class="space-block-2"></div>
             <h4 style="margin-bottom:6px">Phase 2</h4>
-            <div class="desc-row">
+            <br/>
+            <div style="display:flex">
+              <div class="role-box green-box">
                 <p>
-                    After streamlining the activation flow, we created an edit flow which is similar to the activation. Currently, there isn’t an option for the user to see their active integrations, so we also created a new space in the navigation which hosted everything related to integration in one place. This leads to two ideas:
+                  How might we help the users to modify their integrations after setup? 
+                </p>
+              </div>
+              <div class="role-box green-box">
+                <p>
+                  How might we provide the user with clear information about their integrations performance?
+                </p>
+              </div>
+            </div>
+            <br/>
+            <div class="desc-row">
+                <div class="col-2-img">
+                  <div class=""> 
+                          <img style="margin-bottom: 25px;"  src="/images/integrations/Hub_diagram.jpg" alt="data analysis"/>
+                          <img  src="/images/integrations/View_mode.jpg" alt="data analysis"/>
+                  </div>
+                  <div class="step-description">
+                                          After streamlining the activation flow, we created an edit flow which is similar to the activation. Currently, there isn’t an option for the user to see their active integrations, so we also created a new space in the navigation which hosted everything related to integration in one place. This leads to two ideas:
                     <ul style="list-style-type: disc">
                         <li>Put a wrapper around the current scattered integration.</li>
                         <li>Give it a place to reside</li>
                     </ul>
-                </p>
-                <p>
-                    <h5> A place to live: Restructured navigation </h5>
-                    <div class="img-col-1 space-top-40 screeshot-wrapper">
-                        <img src="/images/integrations/Hub_diagram.jpg" alt="data analysis"/>
-                    </div>
-                </p>
-                <p>
-                    <h5> A wrapper around integration: Activate & Edit flows </h5>
-                    <div class="img-col-1 space-top-40 screeshot-wrapper">
-                        <img src="/images/integrations/View_mode.jpg" alt="data analysis"/>
-                    </div>
-                </p>
+                  </div>
+            </div>
             </div>
             <div class="space-block-2"></div>
             <h4 style="margin-bottom:6px">Phase 3</h4>
+            <br/>
+            <div style="display:flex">
+              <div class="role-box green-box">
+                <p>
+                  How might we reduce the reuse of API credentials for custom integrations?
+                </p>
+              </div>
+            </div>
+            <br/>
             <div class="desc-row">
                 <p>
                     While we could solve the Personio built integrations, the problem with customer-built integrations still exists. From the research & data, we identified that the users mostly created one set of API credentials with all permissions and reused them for each custom integration that they created. This poses a huge security risk. 
@@ -319,6 +453,20 @@
                 <p>
                     To avoid this, we are trying to provide the user with more of a sense of activating integration than rather just creating a credential. This will create a sense of 1:1 mapping for each tool they use and potentially reduce the risk of leak due to uncontrolled reuse. 
                 </p>
+                <div class="img-row">
+                  <div class="col-1-img">
+                    <h5>Current flow</h5>
+                    <img src="/images/integrations/Custom_current.png"/>
+                  </div>
+                  <div class="col-1-img">
+                    <h5>New: Create mode</h5>
+                    <img src="/images/integrations/Custom_create.png"/>
+                  </div>
+                  <div class="col-1-img">
+                    <h5>New: Review mode</h5>
+                    <img src="/images/integrations/Custom_View.png"/>
+                  </div>
+                </div>
             </div>
         </div>
     </div> 
@@ -355,24 +503,19 @@
             </p>
         </div>
     </div>
-    <div class="img-col-1">
-        <div class="img-grid-4">
-                <div class="col-2-img">
-                    <div class="img-shadow"> 
-                        <img  src="/images/integrations/1P_Setup.jpg" alt="interview Image 4"/> 
-                    </div>
-                    <div class="img-shadow"> 
-                        <img  src="/images/integrations/1P_after connection.jpg" alt="interview chart diagram number 6"/> 
-                    </div>
-                </div>
-                <div class="col-2-img">
-                    <div class="img-shadow"> 
-                        <img src="/images/integrations/1P_logs.jpg" alt="interview Image 5"/> 
-                    </div>
-                </div>
-            </div>
+    <div class="img-col-1 img-shadow screeshot-wrapper no-top-margin">
+        <img src="/images/integrations/gif1a.gif"  alt="wireframe Image 2"/>
     </div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <div class="img-col-1 img-shadow screeshot-wrapper no-top-margin">
+        <img src="/images/integrations/gif11.gif" alt="wireframe Image 2"/>
+    </div>
+
 </div>
+<div class="space-block-2"></div>
 <div class="resp-container">
     <div class="resp-row">
         <div class="resp-title">
@@ -386,24 +529,11 @@
             </div>
         </div>
     </div>
-    <div class="img-col-1">
-        <div class="img-grid-4">
-                <div class="col-2-img">
-                    <div class="img-shadow"> 
-                        <img  src="/images/integrations/Custom_Setup.jpg" alt="interview Image 4"/> 
-                    </div>
-                    <div class="img-shadow"> 
-                        <img  src="/images/integrations/Custom_api.jpg" alt="interview chart diagram number 6"/> 
-                    </div>
-                </div>
-                <div class="col-2-img">
-                    <div class="img-shadow"> 
-                        <img src="/images/integrations/1P_logs.jpg" alt="interview Image 5"/> 
-                    </div>
-                </div>
-        </div>
+    <div class="img-col-1 img-shadow screeshot-wrapper no-top-margin">
+        <img src="/images/integrations/gif1.gif" alt="wireframe Image 2"/>
     </div>
 </div>
+<div class="space-block-2"></div>
 <div class="resp-container">
     <div class="resp-row">
         <div class="resp-title">
@@ -415,10 +545,14 @@
                     Alongside users who gave us the feedback, we also spoke to new participants who were from companies representing a range of company sizes with an emphasis on mid-market. Roles varied from HRIS Specialist, People Operations Manager, COO, HR Manager, to Managing Director. The users loved the updated navigation and the concept of land integration. All the users, including users who were used to the existing navigation loved intuitively navigating to the integration land.
                 </p>
             </div>
+            <audio style="display:none" controls>
+              <source src="/images/integrations/file_example_OOG_1MG.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+            </audio>
         </div>
     </div>
 </div>
-<div class="resp-container project-footer">
+<div class="resp-container">
     <div class="resp-row">
         <div class="resp-title">Rome was not <br/>built in a day</div>
             <div class="resp-desc">
@@ -428,8 +562,13 @@
                 <p>
                     After the user testing results came back positive, we needed to plan on how we were planning to roll it out in a controlled & progressive manner. The following is the current status of the transition. The numbers are already showing the impact.
                 </p>
+                <div class=" space-top-40 screeshot-wrapper">
+                    <img style="max-width:50%;margin: auto;" src="/images/integrations/rome.png" alt="data analysis"/>
+                </div>
+                <br/>
+                <p>Although the users navigated to the integration hub intuitively, we added fine details for handholding users who are already used to existing navigation patterns. Hence we are consciously sustaining some parts of the existing navigation and providing instructions.</p>
                 <div class="img-col-1 space-top-40 screeshot-wrapper">
-                        <img src="/images/integrations/rome.png" alt="data analysis"/>
+                    <img  src="/images/integrations/integraion_change_management.jpg" alt="data analysis"/>
                 </div>
             </div>
         </div>
@@ -451,4 +590,32 @@
             </div>
         </div>
     </div>
+</div>
+<div class="resp-container">
+    <div class="resp-row">
+        <div class="resp-title">
+            Plan for the future
+        </div>
+        <div class="step-description">
+          <h5 style="margin-top:0px">Solving only 20% of the problem</h5>
+          <div class="col-2-img">
+                <div class=""> 
+                    <img src="/images/integrations/piechart.jpg" alt="wireframe 1 from notebook"/> 
+                </div>
+                <div class="step-description">
+                    Even if we do all this, we are solving the issues of 20.3% of the users. Because 79.7% of hits on our system as of today are PAPI calls. This could be users with a custom or a partner built integration. 
+              Assuming 50% of 2.42M = 1.24M of them, are from the public API.
+                </div>
+          </div>
+          <h5>Expensive middleware</h5>
+          <p>
+              We are currently using tray.io to build the business logics for our integrations. Tray is demanding an increased subscription charge and this is critical to sustain the existing integrations. If we can migrate the integrations outside tray.io, we could save 950k USD per year
+          </p>
+          <h5>Automation is the answer</h5>
+          <p>
+              When we asked enough “Why” questions to almost all of the pain points the users brought up in our foundational research, the answer we got is “to automate something” to “make employees life easier and smoother”
+          </p>
+        </div>
+    </div>
+    <div class="space-block-2"></div>
 </div>
