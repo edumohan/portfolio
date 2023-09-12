@@ -12,23 +12,29 @@ const Resume = () => (
                     <div className="exp-head-row">
                         <h4>{`Personio GmbH`}</h4><label>{`/ Senior product designer`}</label>
                     </div>
-                    <p className="date-row">2022 June - present</p>
+                    <p className="date-row">2022 Apr - present</p>
                 </div>
                 <div className="exp-row">
                     <div className="exp-head-row">
                         <h4>{`Babel GmbH`}</h4><label>{`/ Senior product designer`}</label>
                     </div>
-                    <p className="date-row">2021 Aug - 2022 March</p>
+                    <p className="date-row">2021 Aug - 2022 Mar</p>
                 </div>
                 <div className="exp-row">
                     <div className="exp-head-row">
                         <h4>{`HackerEarth`}</h4><label>{`/ Senior product designer`}</label>
                     </div>
-                    <p className="date-row">2019 May - 2021 July</p>
+                    <p className="date-row">2019 May - 2021 Jul</p>
                 </div>
                 <div className="exp-row">
                     <div className="exp-head-row">
                         <h4>{`[24]7.ai`}</h4><label>{`/ User experience designer`}</label>
+                    </div>
+                    <p className="date-row">2018 Jan - 2019 Apr</p>
+                </div>
+                <div className="exp-row">
+                    <div className="exp-head-row">
+                        <h4>{`Jifflenow`}</h4><label>{`/ User experience designer`}</label>
                     </div>
                     <p className="date-row">2016 Jan - 2017 Dec</p>
                 </div>

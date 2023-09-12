@@ -544,9 +544,13 @@
                 <p>
                     Alongside users who gave us the feedback, we also spoke to new participants who were from companies representing a range of company sizes with an emphasis on mid-market. Roles varied from HRIS Specialist, People Operations Manager, COO, HR Manager, to Managing Director. The users loved the updated navigation and the concept of land integration. All the users, including users who were used to the existing navigation loved intuitively navigating to the integration land.
                 </p>
+                <p>
+                    The following audio clip is a snippet from one out of many user tests
+                </p>
             </div>
-            <audio style="display:none" controls>
-              <source src="/images/integrations/file_example_OOG_1MG.ogg" type="audio/ogg">
+            <audio style="" controls>
+              <source src="/images/integrations/feedback.mp3" type="audio/mp3">
+              <source src="/images/integrations/feedback.ogg" type="audio/ogg">
             Your browser does not support the audio element.
             </audio>
         </div>
