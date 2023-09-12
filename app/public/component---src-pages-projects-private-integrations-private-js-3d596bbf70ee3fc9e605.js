@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{IPoO:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var r=t("q1tI"),a=t.n(r),c=t("8k0H");function o(e){var n=e.data,t=Object(r.useRef)();return Object(r.useEffect)((function(){t.current.innerHTML=n.integrationsPrivateJson.content.childMarkdownRemark.html})),a.a.createElement(c.a,null,a.a.createElement("div",{ref:t,id:"projectWrapper",className:"project-wrapper"}))}}}]);
+//# sourceMappingURL=component---src-pages-projects-private-integrations-private-js-3d596bbf70ee3fc9e605.js.map

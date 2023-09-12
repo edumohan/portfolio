@@ -7,5 +7,6 @@
 <url> <loc>https://edumohan.me/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://edumohan.me/projects/projectA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://edumohan.me/projects/qlCaseStudy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://edumohan.me/projects/private/integrationsPrivate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://edumohan.me/projects/private/privateProjectA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

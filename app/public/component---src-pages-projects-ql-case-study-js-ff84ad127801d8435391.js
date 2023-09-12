@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"/hMs":function(e,t,n){"use strict";n.r(t);var r=n("8k0H"),a=n("q1tI"),c=n.n(a);t.default=function(e){var t=e.data,n=Object(a.useRef)();return Object(a.useEffect)((function(){n.current.innerHTML=t.qlCaseStudyJson.content.childMarkdownRemark.html})),c.a.createElement(r.a,null,c.a.createElement("div",{ref:n,id:"projectWrapper",className:"project-wrapper"}))}}}]);
-//# sourceMappingURL=component---src-pages-projects-ql-case-study-js-ff84ad127801d8435391.js.map
