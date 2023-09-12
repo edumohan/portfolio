@@ -57,9 +57,9 @@ export default createGlobalStyle`
   }
   h5{
     font-family: 'Avenir';
-    font-size: 18px;
-    line-height: 30px;
-    font-weight: 900;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 15px 0px;
   }
   h4{
     font-family: 'Avenir',Georgia,sans-serif;
@@ -74,6 +74,7 @@ export default createGlobalStyle`
 
   ol, ul {
     list-style: none;
+    padding-left: 20px !important;
   }
 
   blockquote, q {
@@ -277,14 +278,14 @@ export default createGlobalStyle`
     border-radius: 10px;
     overflow: hidden;
   }
-  
+
 
   .project-wrapper {
     padding: 24px 82px;
     .hor-space{
       padding:0px 50px;
     }
-    
+
     .blue-bg{
       width: 100%;
       text-align: center;
@@ -705,8 +706,8 @@ export default createGlobalStyle`
           padding-top: 20px;
         }
       }
-    
-    
+
+
     }
     .space-block {
       height: 10px;
@@ -729,5 +730,59 @@ export default createGlobalStyle`
         margin: 12px 0px;
       }
     }
+  }
+  .role-box {
+      width: 250px;
+      border-radius: 8px;
+      padding: 20px;
+      justify-content: center;
+      align-items: center;
+      color: #2C3454;
+      font-size: 14px;
+  }
+  .role-box .head {
+    font-weight: 900;
+  }
+  .role-box p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .grey-box {
+    background: #F1F0EF;
+  }
+  .blue-box {
+    background: #E0F2FF;
+  }
+  .role-box + div{
+    margin-left:20px
+  }
+  .flex-user {
+    display:flex
+  }
+  .user-persona {
+    padding-right: 50px;
+    img {
+      max-width: 100%;
+    }
+  }
+  .profile-pic {
+    width: 200px;
+  }
+  .company-head {
+    font-weight: 700;
+  }
+  .green-box {
+    background:#C2ED97;
+  }
+  .img-row {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  .col-1-img img {
+    width: 85%;
+  }
+  .col-1-img h5 {
+    font-size: 16px;
   }
 `;

@@ -1,6 +1,17 @@
 {
   "title": "Projects",
-  "projects":[{
+  "projects":[
+    {
+      "title": "Personio",
+      "desc": "Designing a centralised framework for setting up and managing integrations",
+      "date": "2022 May - Present",
+      "image": "/images/projects/3_bokio.jpg",
+      "link":"private/integrations",
+      "id":"integrationsPrivate",
+      "bgColor":"#FBF074",
+      "color":"#2C3454"
+  },
+    {
       "title": "HackerEarth",
       "desc": "Redesigning the flow for managing and modifying a test question listing for a recruiter.",
       "date": "2019 May - 2020 Jan",
@@ -12,7 +23,7 @@
   },
   {
     "title": "[24]7.ai",
-    "desc": "System design for a chatbot builder",
+    "desc": "System and architecture design for a configurable chatbot builder",
     "date": "2018 Dec - 2019 Apr",
     "image": "/images/projects/2_247.jpg",
     "link":"botbuilderCaseStudy",
