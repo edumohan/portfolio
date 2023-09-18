@@ -22,7 +22,7 @@ const Resume = () => (
                 </div>
                 <div className="exp-row">
                     <div className="exp-head-row">
-                        <h4>{`HackerEarth`}</h4><label>{`/ Senior product designer`}</label>
+                        <h4>{`HackerEarth`}</h4><label>{`/ Lead product designer`}</label>
                     </div>
                     <p className="date-row">2019 May - 2021 Jul</p>
                 </div>
